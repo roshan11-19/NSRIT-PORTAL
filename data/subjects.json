@@ -1,0 +1,234 @@
+{
+  "AR23": {
+    "CSE": {
+
+      "MID": {
+        "1-1": [
+          "Engineering Physics",
+          "Linear Algebra & Calculus",
+          "Basic Civil & Mechanical Engineering",
+          "Introduction to Programming",
+          "Engineering Graphics"
+        ],
+        "1-2": [
+          "Communicative English",
+          "Chemistry",
+          "Differential Equations & Vector Calculus",
+          "Data Structures",
+          "Basic Electrical & Electronics Engineering"
+        ],
+        "2-1": [
+          "Mathematical Foundations of Computer Science",
+          "Universal Human Values",
+          "Digital Logics and Computer Organization",
+          "Software Engineering",
+          "Object Oriented Programming through Java",
+          "Environmental Science"
+        ],
+        "2-2": [
+          "Manageral Economics and Financial Analysis",
+          "Probability and Statistics",
+          "Operating Systems",
+          "Database Management Systems",
+          "Formal Languages and Automata Theory",
+          "Design Thinking"
+        ],
+        "3-1": [
+          "Data Warehousing and Data Mining",
+          "Compiler Design",
+          "Design and Analysis of Algorithms",
+          "Object Oriented Analysis and Design (PE1)",
+          "Software Testing Methodologies (PE1)",
+          "Advanced Computer Architecture (PE1)",
+          "Computer Graphics (PE1)"
+        ],
+        "3-2": [
+          "Computer Networks",
+          "Artificial Intelligence",
+          "Cryptography and Network Security",
+          "Cloud Computing (PE2)",
+          "Cyber Security (PE2)",
+          "DevOps (PE2)",
+          "No SQL Databases (PE2)",
+          "Software Project Management (PE3)",
+          "Human Computer Interaction (PE3)",
+          "Big Data Analytics (PE3)",
+          "Distributed Systems (PE3)"
+        ],
+        "4-1": [
+             "Machine Learning",
+             "Human Resource & Project Management",
+             "Software Architecture and Design Patterns (PE4)",
+             "Blockchain Technology (PE4)",
+             "Internet of Things (PE4)",
+             "Quantum Computing (PE4)",
+             "Soft Computing (PE5)",
+             "Digital Image Processing (PE5)",
+             "Natural Language Processing (PE5)",
+             "Mobile Adhoc Networks (PE5)"
+        ],
+        "4-2": [
+
+        ]
+
+        },
+
+      "SEM": {
+        "1-1": [
+          "Engineering Physics",
+          "Linear Algebra & Calculus",
+          "Basic Civil & Mechanical Engineering",
+          "Introduction to Programming",
+          "Engineering Graphics"
+        ],
+        "1-2": [
+          "Communication English",
+          "Chemistry",
+          "Differential Equations & Vector Calculus",
+          "Data Structures",
+          "Basic Electrical & Electronics Engineering"
+        ],
+        "2-1": [
+          "Mathematical Foundations of Computer Science",
+          "Universal Human Values",
+          "Digital Logics and Computer Organization",
+          "Software Engineering",
+          "Object Oriented Programming through Java"
+        ],
+        "2-2": [
+          "Manageral Economics and Financial Analysis",
+          "Probability and Statistics",
+          "Operating Systems",
+          "Database Management Systems",
+          "Formal Languages and Automata Theory"        ],
+        "3-1": [
+          "Data Warehousing and Data Mining",
+          "Compiler Design",
+          "Design and Analysis of Algorithms",
+          "Object Oriented Analysis and Design (PE1)",
+          "Software Testing Methodologies (PE1)",
+          "Advanced Computer Architecture (PE1)",
+          "Computer Graphics (PE1)"
+        ],
+        "3-2": [
+          "Computer Networks",
+          "Artificial Intelligence",
+          "Cryptography and Network Security",
+          "Cloud Computing (PE2)",
+          "Cyber Security (PE2)",
+          "DevOps (PE2)",
+          "No SQL Databases (PE2)",
+          "Software Project Management (PE3)",
+          "Human Computer Interaction (PE3)",
+          "Big Data Analytics (PE3)",
+          "Distributed Systems (PE3)"
+        ],
+        "4-1": [
+             "Machine Learning",
+             "Human Resource & Project Management",
+             "Software Architecture and Design Patterns (PE4)",
+             "Blockchain Technology (PE4)",
+             "Internet of Things (PE4)",
+             "Quantum Computing (PE4)",
+             "Soft Computing (PE5)",
+             "Digital Image Processing (PE5)",
+             "Natural Language Processing (PE5)",
+             "Mobile Adhoc Networks (PE5)"
+        ],
+        "4-2": [
+
+        ]
+      },
+
+      "LAB": {
+        "1-1": [
+          "Physics Lab",
+          "Intro to Programming Lab"
+        ],
+        "1-2": [
+          "Chemistry Lab",
+          "Data Structures Lab"
+        ],
+        "2-1": [
+          "Object Oriented Programming through Java Lab",
+          "Software Engineering Lab"
+        ],
+        "2-2": [
+          "Operating Systems Lab",
+          "Database Management Systems Lab"
+        ]
+      },
+
+      "NOTES": {
+        "1-1": [
+          "Engineering Physics",
+          "Linear Algebra & Calculus",
+          "Basic Civil & Mechanical Engineering",
+          "Introduction to Programming",
+          "Engineering Graphics"
+        ],
+        "1-2": [
+          "Communication English",
+          "Chemistry",
+          "Differential Equations & Vector Calculus",
+          "Data Structures",
+          "Basic Electrical & Electronics Engineering"
+        ],
+        "2-1": [
+          "Mathematical Foundations of Computer Science",
+          "Universal Human Values",
+          "Digital Logics and Computer Organization",
+          "Software Engineering",
+          "Object Oriented Programming through Java",
+          "Environmental Science"
+        ],
+        "2-2": [
+          "Manageral Economics and Financial Analysis",
+          "Probability and Statistics",
+          "Operating Systems",
+          "Database Management Systems",
+          "Formal Languages and Automata Theory",
+          "Design Thinking"
+        ],
+        "3-1": [
+          "Data Warehousing and Data Mining",
+          "Compiler Design",
+          "Design and Analysis of Algorithms",
+          "Object Oriented Analysis and Design (PE1)",
+          "Software Testing Methodologies (PE1)",
+          "Advanced Computer Architecture (PE1)",
+          "Computer Graphics (PE1)"
+        ],
+        "3-2": [
+          "Computer Networks",
+          "Artificial Intelligence",
+          "Cryptography and Network Security",
+          "Cloud Computing (PE2)",
+          "Cyber Security (PE2)",
+          "DevOps (PE2)",
+          "No SQL Databases (PE2)",
+          "Software Project Management (PE3)",
+          "Human Computer Interaction (PE3)",
+          "Big Data Analytics (PE3)",
+          "Distributed Systems (PE3)"
+        ],
+          "4-1": [
+             "Machine Learning",
+             "Human Resource & Project Management",
+             "Software Architecture and Design Patterns(PE4)",
+             "Blockchain Technology(PE4)",
+             "Internet of Things(PE4)",
+             "Quantum Computing(PE4)",
+             "Soft Computing(PE5)",
+             "Digital Image Processing(PE5)",
+             "Natural Language Processing(PE5)",
+             "Mobile Adhoc Networks(PE5)"
+          ],
+          "4-2": [
+
+          ]
+      }
+
+    }
+  }
+}

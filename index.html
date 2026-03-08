@@ -1,0 +1,945 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <title>NSRIT Academic Portal</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <!-- Tailwind -->
+  <script src="https://cdn.tailwindcss.com"></script>
+
+  <!-- Custom CSS -->
+  <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body class="bg-gray-100 text-gray-800">
+
+<!-- ================= HEADER ================= -->
+<!-- HEADER WITH LOGO -->
+<header class="bg-red-700 text-white p-4">
+
+  <div class="max-w-7xl mx-auto flex items-center gap-4">
+
+    <!-- Logo -->
+    <img src="https://www.hackwithvizag.com/assets/NSRIT%20Logo.jpg"
+         alt="NSRIT Logo"
+         class="w-20 h-20 object-contain bg-white rounded-full p-1">
+
+    <!-- College Text -->
+    <div>
+      <h1 class="text-2xl font-bold text-center flex-1">
+        Nadimpalli Satyanarayana Raju Institute of Technology
+      </h1>
+
+      <p class="text-sm">
+        Visakhapatnam – 531173, Andhra Pradesh
+      </p>
+
+      <p class="text-xs">
+        Established in 2008
+      </p>
+    </div>
+
+  </div>
+
+</header>
+
+
+<!-- ================= NAVBAR ================= -->
+<nav class="bg-white shadow sticky top-0 z-50">
+
+  <div class="max-w-7xl mx-auto px-4 py-3 flex flex-wrap justify-between items-center">
+
+    <div class="font-bold text-red-700 text-lg">
+      NSRIT Portal
+    </div>
+
+    <!-- Mobile Button -->
+<button id="menuBtn"
+  class="md:hidden text-red-700 text-2xl">
+  ☰
+</button>
+
+<ul id="menu"
+  class="hidden md:flex flex-wrap gap-4 items-center">
+<li><a href="#" onclick="activateNav(this); showSection('home')" class="nav-btn">Home</a></li>
+
+<li><a href="#" onclick="activateNav(this); showSection('about')" class="nav-btn">About Us</a></li>
+
+<li><a href="#" onclick="activateNav(this); showSection('mid')" class="nav-btn">MID QP</a></li>
+
+<li><a href="#" onclick="activateNav(this); showSection('sem')" class="nav-btn">SEM QP</a></li>
+
+<li><a href="#" onclick="activateNav(this); showSection('lab')" class="nav-btn">Lab Manuals</a></li>
+
+<li><a href="#" onclick="activateNav(this); showSection('materials')" class="nav-btn">Materials</a></li>
+
+<li><a href="#" onclick="activateNav(this); showSection('textbooksSection')" class="nav-btn">Textbooks</a></li>
+
+<li><a href="#" onclick="activateNav(this); showSection('contact')" class="nav-btn">Contact</a></li>      <li>
+        <input type="text" placeholder="Search..."
+          class="border px-2 py-1 rounded">
+      </li>
+
+    
+
+    </ul>
+
+  </div>
+
+</nav>
+
+
+<!-- ================= MAIN CONTENT ================= -->
+<main class="max-w-7xl mx-auto p-4">
+<!-- ================= LOADER ================= -->
+
+<div id="loader"
+     class="fixed inset-0 bg-black/40 hidden flex items-center justify-center z-50">
+
+  <div class="bg-white p-6 rounded-lg shadow flex flex-col items-center gap-3">
+
+    <!-- Spinner -->
+    <div
+      class="w-12 h-12 border-4 border-red-500 border-t-transparent rounded-full animate-spin">
+    </div>
+
+    <p class="text-sm font-semibold text-gray-700">
+      Loading...
+    </p>
+
+  </div>
+
+</div>
+
+<!-- ========== HOME SECTION ========== -->
+<!-- WELCOME / HERO SECTION -->
+<section id="home" class="section bg-gradient-to-r from-white via-red-100 to-red-400 py-16 px-6">
+
+  <div class="max-w-7xl mx-auto grid md:grid-cols-2 gap-10 items-center">
+
+    <!-- LEFT CONTENT -->
+    <div>
+      <h1 class="text-4xl md:text-5xl font-bold text-black-500 mb-6 leading-tight">
+        Welcome to NSRIT<br>
+        Visakhapatnam
+      </h1>
+
+      <p class="text-gray-700 text-lg leading-relaxed mb-6">
+        Nadimpalli Satyanarayana Raju Institute of Technology (Formerly Known as VITS College of Engineering) 
+        was established in the year 2008 by Sree Veera Venkata Satyanarayana Educational Society.
+        NSRIT offers quality education and technical competencies with strong values and culture.
+      </p>
+
+      <p class="text-gray-700 text-lg leading-relaxed mb-8">
+        Our objective is to prepare students as leaders for economic, industrial, and social development.
+      </p>
+
+<a href="#" class="inline-block bg-red-500 text-white px-6 py-3 rounded-lg shadow hover:bg-red-600 transition" onclick="showSection('about')" >View More</a>
+
+    </div>
+
+    <!-- RIGHT IMAGE -->
+    <div class="relative">
+
+      <img src="https://pbs.twimg.com/media/E8-MrXXVcAgbFVL.jpg"
+          alt="NSRIT Campus"
+           class="w-full h-[400px] object-cover rounded-2xl shadow-lg">
+
+      <!-- IMAGE CAPTION -->
+      <div
+        class="absolute bottom-4 left-1/2 transform -translate-x-1/2 bg-red-800 text-white px-6 py-3 rounded-lg text-center text-sm md:text-base shadow-lg">
+
+        NSRIT Students <br>
+        Visakhapatnam • 2026
+
+      </div>
+
+    </div>
+
+  </div>
+
+
+  <div class="grid md:grid-cols-4 gap-6 mt-6">
+
+  <!-- MID -->
+  <div
+    onclick="showSection('mid')"
+    class="bg-white p-6 rounded-2xl shadow-lg
+           card-hover text-center cursor-pointer
+           hover:shadow-2xl hover:-translate-y-2
+           transition-all duration-300
+           border-t-4 border-red-500">
+
+    <div class="text-red-500 text-4xl mb-3">📄</div>
+
+    <h3 class="font-bold text-lg">MID Papers</h3>
+
+    <p class="text-gray-500 mt-2">
+      All Mid Exams
+    </p>
+  </div>
+
+  <!-- SEM -->
+  <div
+    onclick="showSection('sem')"
+    class="bg-white p-6 rounded-2xl shadow-lg
+           card-hover text-center cursor-pointer
+           hover:shadow-2xl hover:-translate-y-2
+           transition-all duration-300
+           border-t-4 border-blue-500">
+
+    <div class="text-blue-500 text-4xl mb-3">📘</div>
+
+    <h3 class="font-bold text-lg">SEM Papers</h3>
+
+    <p class="text-gray-500 mt-2">
+      Semester Exams
+    </p>
+  </div>
+
+  <!-- LAB -->
+  <div
+    onclick="showSection('lab')"
+    class="bg-white p-6 rounded-2xl shadow-lg
+           card-hover text-center cursor-pointer
+           hover:shadow-2xl hover:-translate-y-2
+           transition-all duration-300
+           border-t-4 border-green-500">
+
+    <div class="text-green-500 text-4xl mb-3">🧪</div>
+
+    <h3 class="font-bold text-lg">Labs</h3>
+
+    <p class="text-gray-500 mt-2">
+      Manuals
+    </p>
+  </div>
+
+  <!-- NOTES -->
+  <div
+    onclick="showSection('materials')"
+    class="bg-white p-6 rounded-2xl shadow-lg
+           card-hover text-center cursor-pointer
+           hover:shadow-2xl hover:-translate-y-2
+           transition-all duration-300
+           border-t-4 border-purple-500">
+
+    <div class="text-purple-500 text-4xl mb-3">📚</div>
+
+    <h3 class="font-bold text-lg">Notes</h3>
+
+    <p class="text-gray-500 mt-2">
+      Materials
+    </p>
+  </div>
+
+</div>
+
+  <!-- Resources -->
+
+    <h2 class="section-title">Resources</h2>
+  <div class="grid md:grid-cols-2 gap-6">
+
+    <!-- Syllabus -->
+    <div class="bg-white p-6 rounded-xl shadow card-hover border">
+      <h3 class="card-title">📘 Syllabus</h3>
+
+      <table class="w-full mt-4 border">
+
+        <tr class="bg-gray-200">
+          <th class="border p-2">Regulation</th>
+          <th class="border p-2">Link</th>
+        </tr>
+
+        <tr>
+          <td class="border p-2">AR23</td>
+      
+          <td class="border p-2">
+            <a href="#" class="link">View</a>
+          </td>
+        </tr>
+
+        <tr>
+          <td class="border p-2">AR26</td>
+          <td class="border p-2">
+            <a href="#" class="link">View</a>
+          </td>
+        </tr>
+
+        <tr>
+          <td class="border p-2">Others</td>
+          <td class="border p-2">
+            <a href="#" class="link">View</a>
+          </td>
+        </tr>
+
+      </table>
+    </div>
+
+
+    <!-- CP Projects -->
+    <div class="bg-white p-6 rounded-xl shadow card-hover border">
+      <h3 class="card-title">💻 CP Projects</h3>
+
+      <table class="w-full mt-4 border">
+
+        <tr class="bg-gray-200">
+          <th class="border p-2">Title</th>
+          <th class="border p-2">Year</th>
+          <th class="border p-2">File</th>
+        </tr>
+
+        <tr>
+          <td class="border p-2">AI Project</td>
+          <td class="border p-2">2024</td>
+          <td class="border p-2">
+            <a href="#" class="link">Download</a>
+          </td>
+        </tr>
+
+        <tr>
+          <td class="border p-2">Web App</td>
+          <td class="border p-2">2023</td>
+          <td class="border p-2">
+            <a href="#" class="link">Download</a>
+          </td>
+        </tr>
+
+      </table>
+
+    </div>
+
+  </div>
+
+</section>
+
+  
+
+<!-- ========== OTHER SECTIONS ========== -->
+
+<section id="about" class="section bg-white p-10 rounded-xl shadow">
+
+  <h2 class="section-title">About Us</h2>
+  <p>The main objective of this website is to provide a centralized, digital platform for students of Nadimpalli Satyanarayana Raju Institute of Technology to easily access and download academic resources such as previous year question papers, mid and semester exam papers, supply papers, syllabi, lab manuals, handwritten notes, and project materials.
+
+This portal aims to:<br></br>
+
+✅ Simplify access to academic study materials<br></br>
+
+✅ Save students’ time by organizing resources in one place<br></br>
+
+✅ Support effective exam preparation<br></br>  
+
+✅ Promote digital learning and paperless education<br></br>
+
+✅ Ensure equal access to study resources for all students<br></br>
+
+✅ Improve communication between students and faculty<br></br>
+
+✅ Encourage self-learning and academic excellence<br></br>
+
+By providing well-structured, searchable, and user-friendly content, this website helps students enhance their learning experience and achieve better academic performance.</p>
+</section>
+
+<!-- Tailwind -->
+  <script src="https://cdn.tailwindcss.com"></script>
+
+  <style>
+    html {
+      scroll-behavior: smooth;
+    }
+  </style>
+
+ <!-- ================= MID SECTION ================= -->
+
+<section id="mid" class="section hidden">
+
+  <h2 class="section-title">MID Question Papers</h2>
+
+  <div class="bg-white p-6 rounded-xl shadow card-hover border">
+
+    <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
+
+    <!-- Regulation -->
+    <select id="regulation" class="border p-2 rounded">
+      <option value="">Select Regulation</option>
+      <option value="AR23">AR23</option>
+    </select>
+
+    <!-- Branch -->
+    <select id="branch" class="border p-2 rounded">
+      <option value="">Select Branch</option>
+      <option value="CSE">CSE</option>
+      <option value="ECE">ECE</option>
+      <option value="EEE">EEE</option>
+    </select>
+
+
+      <!-- Year -->
+      <select id="year" class="border p-2 rounded">
+        <option value="">Select Year</option>
+        <option value="1">1st Year</option>
+        <option value="2">2nd Year</option>
+        <option value="3">3rd Year</option>
+        <option value="4">4th Year</option>
+      </select>
+
+      <!-- Semester -->
+      <select id="semester" class="border p-2 rounded">
+        <option value="">Select Semester</option>
+        <option value="1">Semester 1</option>
+        <option value="2">Semester 2</option>
+      </select>
+
+      <!-- Button -->
+
+      <button
+        onclick="loadMidSubjects()"
+        class="bg-red-500 text-white rounded px-4 py-2 hover:bg-red-600">
+
+        Enter
+      </button>
+
+    </div>
+
+  </div>
+
+
+  <!-- ================= SUBJECT BOX ================= -->
+  <div id="subjectBox" class="bg-white p-6 rounded-xl shadow card-hover border">
+
+    <h2 class="text-xl font-bold mb-4">Subjects</h2>
+
+    <table class="w-full border">
+
+      <thead class="bg-gray-200">
+        <tr>
+          <th class="border p-2">Subject</th>
+          <th class="border p-2">Action</th>
+        </tr>
+      </thead>
+
+      <tbody id="subjectList"></tbody>
+
+    </table>
+
+  </div>
+
+
+  <!-- ================= PAPER BOX ================= -->
+  <div id="paperBox" class="bg-white p-6 rounded-xl shadow card-hover border">
+
+    <h2 class="text-xl font-bold mb-4">Question Papers</h2>
+
+    <table class="w-full border">
+
+  <tr class="bg-gray-100 text-center">
+    <th rowspan="2" class="border p-2">Academic Year</th>
+
+    <th colspan="2" class="border p-2">MID 1</th>
+    <th colspan="2" class="border p-2">MID 2</th>
+  </tr>
+
+  <tr class="bg-gray-100 text-center">
+    <th class="border p-2">Set 1</th>
+    <th class="border p-2">Set 2</th>
+
+    <th class="border p-2">Set 1</th>
+    <th class="border p-2">Set 2</th>
+  </tr>
+
+  <tbody id="paperList"></tbody>
+
+</table>
+
+  </div>
+
+</section>
+
+<!-- ================= SEM SECTION ================= -->
+
+<section id="sem" class="section hidden">
+
+  <h2 class="section-title">SEM Question Papers</h2>
+
+  <div class="bg-white p-6 rounded-xl shadow card-hover border">
+
+    <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
+
+    <!-- Regulation -->
+    <select id="semregulation" class="border p-2 rounded">
+            <option value="">Select Regulation</option>
+            <option value="AR23">AR23</option>
+          </select>
+
+    <!-- Branch -->
+    <select id="semBranch" class="border p-2">
+  <option value="">Select Branch</option>
+  <option value="CSE">CSE</option>
+  <option value="ECE">ECE</option>
+  <option value="EEE">EEE</option>
+</select>
+
+
+      <select id="semYear" class="border p-2">
+  <option value="">Select Year</option>
+  <option value="1">1st Year</option>
+  <option value="2">2nd Year</option>
+  <option value="3">3rd Year</option>
+  <option value="4">4th Year</option>
+</select>
+      <select id="semSemester" class="border p-2">
+  <option value="">Select Semester</option>
+  <option value="1">Semester 1</option>
+  <option value="2">Semester 2</option>
+</select>
+
+      <!-- Button -->
+      <button
+        onclick="loadSemSubjects()"
+        class="bg-red-500 text-white rounded px-4 py-2 hover:bg-red-600">
+
+        Enter
+      </button>
+
+    </div>
+
+  </div>
+
+
+  <!-- ================= SEM SUBJECT BOX ================= -->
+  <div id="semSubjectBox" class="bg-white p-6 rounded-xl shadow card-hover border">
+
+    <h2 class="text-xl font-bold mb-4">Subjects</h2>
+
+    <table class="w-full border">
+
+      <thead class="bg-gray-200">
+        <tr>
+          <th class="border p-2">Subject</th>
+          <th class="border p-2">Action</th>
+        </tr>
+      </thead>
+
+      <tbody id="semSubjectList"></tbody>
+
+    </table>
+
+  </div>
+
+
+  <!-- ================= SEM PAPER BOX ================= -->
+  <div id="semPaperBox" class="bg-white p-6 rounded-xl shadow card-hover border">
+
+    <h2 class="text-xl font-bold mb-4">Semester Papers</h2>
+
+    <table class="w-full border">
+
+      <thead class="bg-gray-200">
+        <!-- First Row -->
+      <tr>
+        <th rowspan="2" class="border p-2">Admitted Year</th>
+        <th colspan="2" class="border p-2">Semester</th>
+      </tr>
+
+      <!-- Second Row -->
+      <tr>
+        <th class="border p-2">Regular</th>
+        <th class="border p-2">Advanced Supply</th>
+      </tr>
+      </thead>
+
+      <tbody id="semPaperList"></tbody>
+
+    </table>
+
+  </div>
+
+</section>
+
+
+<section id="lab" class="section hidden">
+
+  <h2 class="section-title">Lab Manuals</h2>
+
+  <div class="bg-white p-6 rounded-xl shadow card-hover border">
+
+    <div class="grid grid-cols-1 md:grid-cols-4 gap-4">
+
+      <!-- Regulation -->
+      <select id="labRegulation" class="border p-2">
+        <option value="">Select Regulation</option>
+        <option value="AR23">AR23</option>
+      </select>
+
+      <!-- Branch -->
+      <select id="labBranch" class="border p-2">
+        <option value="">Select Branch</option>
+        <option value="CSE">CSE</option>
+        <option value="ECE">ECE</option>
+        <option value="EEE">EEE</option>
+      </select>
+
+      <!-- Year -->
+      <select id="labYear" class="border p-2">
+        <option value="">Select Year</option>
+        <option value="1">1st Year</option>
+        <option value="2">2nd Year</option>
+        <option value="3">3rd Year</option>
+        <option value="4">4th Year</option>
+      </select>
+
+      <!-- Semester -->
+      <select id="labSemester" class="border p-2">
+        <option value="">Select Semester</option>
+        <option value="1">1st Semester</option>
+        <option value="2">2nd Semester</option>
+      </select>
+
+      <!-- Button -->
+      <button
+        onclick="loadLabSubjects()"
+        class="bg-red-600 text-white px-4 py-2 rounded hover:bg-red-700">
+
+        Enter
+      </button>
+
+    </div>
+
+  </div>
+
+
+  <!-- SUBJECT BOX -->
+  <div id="labSubjectBox" class="hidden bg-white p-6 rounded shadow">
+
+    <h3 class="text-xl font-bold mb-4">Subjects</h3>
+
+    <table class="w-full border">
+
+      <thead class="bg-gray-200">
+        <tr>
+          <th class="border p-2">Subject</th>
+          <th class="border p-2">Manual</th>
+        </tr>
+      </thead>
+
+      <tbody id="labSubjectList"></tbody>
+
+    </table>
+
+  </div>
+
+</section>
+
+<!-- ================= MATERIALS SECTION ================= -->
+<section id="materials" class="section hidden">
+
+  <h2 class="text-2xl font-bold mb-4 text-darkblue-600">Materials</h2>
+
+  <!-- Selection Box -->
+  <div class="bg-white p-6 rounded-xl shadow card-hover border">
+
+    <div class="grid grid-cols-1 md:grid-cols-4 gap-4">
+
+      <!-- Regulation -->
+      <select id="matReg" class="border p-2 rounded">
+        <option value="">Select Regulation</option>
+        <option value="AR23">AR23</option>
+      </select>
+
+      <!-- Branch -->
+      <select id="matBranch" class="border p-2 rounded">
+        <option value="">Select Branch</option>
+        <option value="CSE">CSE</option>
+        <option value="ECE">ECE</option>
+        <option value="EEE">EEE</option>
+      </select>
+
+      <!-- Year -->
+      <select id="matYear" class="border p-2">
+        <option value="">Select Year</option>
+        <option value="1">1st Year</option>
+        <option value="2">2nd Year</option>
+        <option value="3">3rd Year</option>
+        <option value="4">4th Year</option>
+      </select>
+
+      <!-- Semester -->
+      <select id="matSem" class="border p-2 rounded">
+        <option value="">Select Semester</option>
+        <option value="1">Semester 1</option>
+        <option value="2">Semester 2</option>
+      </select>
+
+      <!-- Button -->
+      <button
+  type="button"
+  onclick="loadMaterialsSubjects()"
+  class="bg-red-600 text-white px-4 py-2 rounded hover:bg-red-700">
+  Enter
+</button>
+
+    </div>
+
+  </div>
+
+
+  <!-- Subjects List -->
+  <div id="materialsSubjects" class="bg-white p-4 rounded shadow hidden"></div>
+
+  <!-- Units Table -->
+  <div id="materialsUnits" class="mt-6 hidden"></div>
+
+
+  <!-- SUBJECT BOX -->
+  <div id="notesSubjectBox" class="hidden bg-white p-6 rounded shadow">
+
+    <h3 class="text-xl font-bold mb-4">Subjects</h3>
+
+    <table class="w-full border">
+
+      <thead class="bg-gray-200">
+        <tr>
+          <th class="border p-2">Subject</th>
+          <th class="border p-2">Notes</th>
+        </tr>
+      </thead>
+
+      <tbody id="notesSubjectList"></tbody>
+
+    </table>
+
+  </div>
+
+</section>
+
+<section id="textbooksSection" class="section hidden">
+<h1 class="text-3xl font-bold mb-6 text-center">Textbooks</h1>
+
+<div class="overflow-x-auto">
+
+<table class="w-full border border-gray-300 rounded-lg">
+
+<thead class="bg-red-500 text-white">
+<tr>
+<th class="p-3 border">Subject</th>
+<th class="p-3 border">Textbook</th>
+</tr>
+</thead>
+
+<tbody id="textbookTable" ></tbody>
+</table>
+
+</div>
+
+</section>
+<section id="contact" class="section contact-bg">
+
+  <!-- Floating Background -->
+
+<ul class="bg-bubbles">
+
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+
+</ul>
+  <!-- CONTACT SECTION -->
+<section class="max-w-6xl mx-auto p-6 mt-8">
+
+  <!-- Title -->
+  <h2 class="text-3xl font-bold text-center text-gray-800 mb-8">
+    Contact & Team
+  </h2>
+
+  <!-- Contact Cards -->
+  <div class="grid md:grid-cols-3 gap-6 mb-12">
+
+    <!-- Email -->
+    <div class="bg-red-300 p-6 rounded-xl shadow text-center">
+      <div class="text-red-500 text-4xl mb-3">📧</div>
+      <h3 class="font-semibold text-lg">Email</h3>
+      <p class="text-gray-600 mt-2">
+        24nu1a05n1@nsrit.edu.in
+      </p>
+    </div>
+
+    <!-- Phone -->
+    <div class="bg-red-300 p-6 rounded-xl shadow text-center">
+      <div class="text-green-500 text-4xl mb-3">📞</div>
+      <h3 class="font-semibold text-lg">Phone</h3>
+      <p class="text-gray-600 mt-2">
+        9063030342
+      </p>
+    </div>
+
+    <!-- Location -->
+    <div class="bg-red-300 p-6 rounded-xl shadow text-center">
+      <div class="text-blue-500 text-4xl mb-3">📍</div>
+      <h3 class="font-semibold text-lg">Location</h3>
+      <p class="text-gray-600 mt-2">
+        Visakhapatnam, Andhra Pradesh
+      </p>
+    </div>
+
+  </div>
+
+   <!-- GOOGLE MAP -->
+    <div class="bg-white p-6 rounded-xl shadow">
+
+      <h3 class="text-lg font-semibold mb-4 text-blue-600">
+        Our Location
+      </h3>
+
+      <iframe
+        src="https://www.google.com/maps?q=NSRIT%20Visakhapatnam&output=embed"
+        width="100%"
+        height="350"
+        style="border:0;"
+        allowfullscreen=""
+        loading="lazy"
+        referrerpolicy="no-referrer-when-downgrade">
+      </iframe>
+
+    </div>
+
+
+  </div>
+
+
+
+  <!-- ================= TEAM SECTION ================= -->
+
+<section class="team-section">
+
+  <h2 class="team-title">
+    Our Team
+  </h2>
+
+  <div class="team-grid">
+
+    <!-- Member 1 -->
+    <div class="team-card team-lead">
+
+      <div class="team-img">
+        <img src="images/harinadh.png" alt="Member">
+      </div>
+
+      <h3>HARINADH MANDALA</h3>
+      <p>--</p>
+
+      <div class="team-socials">
+        <a href="https://www.linkedin.com/in/haranadh-mandala-b7b095334?utm_source=share_via&utm_content=profile&utm_medium=member_android">🌐 linkedin</a>
+        <a href="#">💼</a>
+        <a href="#">📧</a>
+      </div>
+
+      <p class="text-red-500 font-medium">
+        Team Leader
+      </p>
+
+    </div>
+
+
+    <!-- Member 2 -->
+    <div class="team-card reveal">
+
+      <div class="team-img">
+        <img src="" alt="Member">
+      </div>
+
+      <h3>ROSHAN KESUBOYINA</h3>
+      <p>--</p>
+
+      <div class="team-socials">
+        <a href="#">🌐 linkedin</a>
+        <a href="#">💼</a>
+        <a href="#">📧</a>
+      </div>
+
+      </div>  
+
+
+    <!-- Member 3 -->
+    <div class="team-card reveal">
+
+      <div class="team-img">
+        <img src="            " alt="Member">
+      </div>
+
+      <h3>SRUTHI YANAMAREDDY</h3>
+      <p>--</p>
+
+      <div class="team-socials">
+        <a href="#">🌐 linkedin</a>
+        <a href="#">💼</a>
+        <a href="#">📧</a>
+      </div>
+
+    </div>
+
+  </div>
+
+</section>
+</section>
+
+</main>
+
+
+<!-- ================= FOOTER ================= -->
+<footer class="bg-red-700 text-white mt-10 p-6">
+
+  <div class="max-w-7xl mx-auto grid md:grid-cols-3 gap-6">
+
+    <!-- Quick Links -->
+    <div>
+      <h3 class="font-bold mb-2">Quick Links</h3>
+      <ul>
+        <li>Home</li>
+        <li>About</li>
+        <li>MID QP</li>
+        <li>SEM QP</li>
+        <li>Contact</li>
+      </ul>
+    </div>
+
+    <!-- Team -->
+    <div>
+      <h3 class="font-bold mb-2">Team Details</h3>
+      <p>Team Leader: M.HARINADH</p>
+      <p>Phone: 9063030342</p>
+      <p>Email: 24nu1a05n1@nsrit.edu.in</p>
+    </div>
+
+    <!-- Credits -->
+    <div>
+      <h3 class="font-bold mb-2">Credits</h3>
+      <p>Designed & Developed by Students of NSRIT</p>
+    </div>
+
+  </div>
+
+</footer>
+
+
+<!-- JS -->
+<script src="js/main.js"></script>
+<!-- Scroll To Top Button -->
+<button
+  id="scrollTopBtn"
+  onclick="scrollToTop()"
+  class="fixed bottom-6 right-6 bg-red-600 text-white px-4 py-2 rounded-full shadow-lg hidden hover:bg-red-700 transition z-50">
+
+  ↑ Top
+</button>
+</body>
+</html>

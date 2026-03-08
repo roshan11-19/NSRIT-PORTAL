@@ -1,0 +1,1379 @@
+{
+  "MID": {
+    "AR23": {
+      "CSE": {
+        "1-1": {
+          "Engineering Physics": {
+            "2023": { "mid1": { "set1": "", "set2": "" }, "mid2": { "set1": "", "set2": "" } },
+            "2024": { "mid1": { "set1": "", "set2": "" }, "mid2": { "set1": "", "set2": "" } },
+            "2025": { "mid1": { "set1": "", "set2": "" }, "mid2": { "set1": "", "set2": "" } }
+          },
+          "Linear Algebra & Calculus": {
+            "2023": { "mid1": { "set1": "", "set2": "" }, "mid2": { "set1": "", "set2": "" } },
+            "2024": { "mid1": { "set1": "", "set2": "" }, "mid2": { "set1": "", "set2": "" } },
+            "2025": { "mid1": { "set1": "", "set2": "" }, "mid2": { "set1": "", "set2": "" } }
+          },
+          "Basic Civil & Mechanical Engineering": {
+            "2023": { "mid1": { "set1": "", "set2": "" }, "mid2": { "set1": "", "set2": "" } },
+            "2024": { "mid1": { "set1": "", "set2": "" }, "mid2": { "set1": "", "set2": "" } },
+            "2025": { "mid1": { "set1": "", "set2": "" }, "mid2": { "set1": "", "set2": "" } }
+          },
+          "Introduction to Programming": {
+            "2023": { "mid1": { "set1": "", "set2": "" }, "mid2": { "set1": "", "set2": "" } },
+            "2024": { "mid1": { "set1": "", "set2": "" }, "mid2": { "set1": "", "set2": "" } },
+            "2025": { "mid1": { "set1": "", "set2": "" }, "mid2": { "set1": "", "set2": "" } }
+          },
+          "Engineering Graphics": {
+            "2023": { "mid1": { "set1": "", "set2": "" }, "mid2": { "set1": "", "set2": "" } },
+            "2024": { "mid1": { "set1": "", "set2": "" }, "mid2": { "set1": "", "set2": "" } },
+            "2025": { "mid1": { "set1": "", "set2": "" }, "mid2": { "set1": "", "set2": "" } }
+          }
+        },
+        "1-2": {
+          "Communicative English": {
+            "2023": { "mid1": { "set1": "", "set2": "" }, "mid2": { "set1": "", "set2": "" } },
+            "2024": { "mid1": { "set1": "", "set2": "" }, "mid2": { "set1": "", "set2": "" } },
+            "2025": { "mid1": { "set1": "", "set2": "" }, "mid2": { "set1": "", "set2": "" } }
+          },
+          "Chemistry": {
+            "2023": { "mid1": { "set1": "", "set2": "" }, "mid2": { "set1": "", "set2": "" } },
+            "2024": { "mid1": { "set1": "", "set2": "" }, "mid2": { "set1": "", "set2": "" } },
+            "2025": { "mid1": { "set1": "", "set2": "" }, "mid2": { "set1": "", "set2": "" } }
+          },
+          "Differential Equations & Vector Calculus": {
+            "2023": { "mid1": { "set1": "", "set2": "" }, "mid2": { "set1": "", "set2": "" } },
+            "2024": { "mid1": { "set1": "", "set2": "" }, "mid2": { "set1": "", "set2": "" } },
+            "2025": { "mid1": { "set1": "", "set2": "" }, "mid2": { "set1": "", "set2": "" } }
+          },
+          "Data Structures": {
+            "2023": { "mid1": { "set1": "", "set2": "" }, "mid2": { "set1": "", "set2": "" } },
+            "2024": { "mid1": { "set1": "", "set2": "" }, "mid2": { "set1": "", "set2": "" } },
+            "2025": { "mid1": { "set1": "", "set2": "" }, "mid2": { "set1": "", "set2": "" } }
+          },
+          "Basic Electrical & Electronics Engineering": {
+            "2023": { "mid1": { "set1": "", "set2": "" }, "mid2": { "set1": "", "set2": "" } },
+            "2024": { "mid1": { "set1": "", "set2": "" }, "mid2": { "set1": "", "set2": "" } },
+            "2025": { "mid1": { "set1": "", "set2": "" }, "mid2": { "set1": "", "set2": "" } }
+          }
+        },
+        "2-1": {
+          "Mathematical Foundations of Computer Science":{
+            "2023": { "mid1": { "set1": "https://drive.google.com/file/d/19DuYwFt1fcXu9M307w5krDe89V1H2Pg_/view?usp=sharing", "set2": "" }, "mid2": { "set1": "https://drive.google.com/file/d/1aYkQhMk2IyHAwIs90yXOJbEtqdP-sr-P/view?usp=sharing", "set2": "" } },
+            "2024": { "mid1": { "set1": "https://drive.google.com/file/d/19SxMhA3QRRXlQFZBVlDS2zq89I-ovLXA/view?usp=sharing", "set2": "" }, "mid2": { "set1": "https://drive.google.com/file/d/1u-E95mabG30AmfV92tJQiRbUkqnH-09P/view?usp=sharing", "set2": "" } },
+            "2025": { "mid1": { "set1": "", "set2": "" }, "mid2": { "set1": "", "set2": "" } }
+          },
+          "Universal Human Values":{
+            "2023": { "mid1": { "set1": "https://drive.google.com/file/d/1qcvfWOCToeNER0g2-FU2wpOwwmaV5_Rp/view?usp=sharing", "set2": "" }, "mid2": { "set1": "", "set2": "" } },
+            "2024": { "mid1": { "set1": "https://drive.google.com/file/d/1Lmo2PF_tmtca3Q4HGF1qHbIi38k8ShTE/view?usp=sharing", "set2": "" }, "mid2": { "set1": "", "set2": "" } },
+            "2025": { "mid1": { "set1": "", "set2": "" }, "mid2": { "set1": "", "set2": "" } }
+          },
+          "Digital Logics and Computer Organization":{
+            "2023": { "mid1": { "set1": "https://drive.google.com/file/d/1sA1NFQCCMQjRKZWElLVGKAgUS1sOrtPR/view?usp=sharing", "set2": "" }, "mid2": { "set1": "https://drive.google.com/file/d/17Y5Iz7cv_I7qbRn1eDAa6zjTg4cFT8O3/view?usp=sharing", "set2": "" } },
+            "2024": { "mid1": { "set1": "https://drive.google.com/file/d/1HWa_1CPtKOuPRnkmopjC9lAOyff4Plgc/view?usp=sharing", "set2": "https://drive.google.com/file/d/1-k1hZqarlGyN_qYphn5xic2jkLwf2loH/view?usp=sharing" }, "mid2": { "set1": "https://drive.google.com/file/d/16d6SvwwKoEb84UeIln9b00dvin_L_fOx/view?usp=sharing", "set2": "" } },
+            "2025": { "mid1": { "set1": "", "set2": "" }, "mid2": { "set1": "", "set2": "" } }
+          },
+          "Software Engineering":{
+            "2023": { "mid1": { "set1": "https://drive.google.com/file/d/1RZIFXApe7Cg_C4bE7aP2F179hZ64t3az/view?usp=sharing", "set2": "https://drive.google.com/file/d/1ZSXtR5S4hBE6qcII3_WllsYwbIFF0eLQ/view?usp=sharing" }, "mid2": { "set1": "https://drive.google.com/file/d/11xM_gVSrWER1OgYDiKZqHTQOb-jRj6cw/view?usp=sharing", "set2": "https://drive.google.com/file/d/1YT5icS4rmal8SBQNCEPEAiXlGENyK-QT/view?usp=sharing" } },
+            "2024": { "mid1": { "set1": "https://drive.google.com/file/d/1yXikNE5PnVb-C9PFswu4s96FbcmedkHG/view?usp=sharing", "set2": "https://drive.google.com/file/d/1oBA6azw3tmVIGzgPp52QTkeSkiSSnhOg/view?usp=sharing" }, "mid2": { "set1": "https://drive.google.com/file/d/1JbAICO8aA43A8rRy4fJFplzPlALbPGhX/view?usp=sharing", "set2": "https://drive.google.com/file/d/1o-JmKNixmzDf3SZbYu8s8Lhswk6cdb28/view?usp=sharing" } },
+            "2025": { "mid1": { "set1": "", "set2": "" }, "mid2": { "set1": "", "set2": "" } }
+          },
+          "Object Oriented Programming through Java":{
+            "2023": { "mid1": { "set1": "https://drive.google.com/file/d/1EdnmZkAhOHXa7FSXTA2SLfuFAbygM5DK/view?usp=sharing", "set2": "" }, "mid2": { "set1": "", "set2": "" } },
+            "2024": { "mid1": { "set1": "https://drive.google.com/file/d/1R_I_2BanAq_DPdud-ydtc_NP6UF1H8BQ/view?usp=sharing", "set2": "" }, "mid2": { "set1": "https://drive.google.com/file/d/1gVPk2PdYzdCG7Y3FZDzRlBP0HZ5XAF_G/view?usp=sharing", "set2": "https://drive.google.com/file/d/10k7kZRkKkpK0nifbZHNgvS8KucNGSeDq/view?usp=sharing" } },
+            "2025": { "mid1": { "set1": "", "set2": "" }, "mid2": { "set1": "", "set2": "" } }
+          },
+          "Environmental Science":{
+            "2023": { "mid1": { "set1": "https://drive.google.com/file/d/1CMqKFOAbag9kk8Wtyn_3AWgtOpC5Qzes/view?usp=sharing", "set2": "" }, "mid2": { "set1": "", "set2": "" } },
+            "2024": { "mid1": { "set1": "https://drive.google.com/file/d/130d7DIIv9ORHxDeIanO_ltptDC4KHOE9/view?usp=sharing", "set2": "" }, "mid2": { "set1": "https://drive.google.com/file/d/1Qc8chhGgXGhFY-5OvO5uTmty1nNjrTQq/view?usp=sharing", "set2": "" } },
+            "2025": { "mid1": { "set1": "", "set2": "" }, "mid2": { "set1": "", "set2": "" } }
+          }
+        },
+        "2-2":{
+          "Manageral Economics and Financial Analysis":{
+            "2023": { "mid1": { "set1": "https://drive.google.com/file/d/1QKJPJdtFyC4cUJIBNrZkf3ma3uiGA9ck/view?usp=sharing", "set2": "" }, "mid2": { "set1": "https://drive.google.com/file/d/1upheqG7qvj__bNVFeaTnp0IZBwYrHPjv/view?usp=sharing", "set2": "" } },
+            "2024": { "mid1": { "set1": "https://drive.google.com/file/d/1Zq2FNl914yuBAEmkb6Q0MRV9WzIxPCCK/view?usp=sharing", "set2": "" }, "mid2": { "set1": "", "set2": "" } },
+            "2025": { "mid1": { "set1": "", "set2": "" }, "mid2": { "set1": "", "set2": "" } }
+          },
+          "Probability and Statistics":{
+            "2023": { "mid1": { "set1": "https://drive.google.com/file/d/1H7Cv6EvqN4klkbzpSuFAELN8MgAWlpxb/view?usp=sharing", "set2": "" }, "mid2": { "set1": "", "set2": "" } },
+            "2024": { "mid1": { "set1": "https://drive.google.com/file/d/1VXhQvfCPd6hpxWoN9X27rH6TjIjtCkzh/view?usp=sharing", "set2": "" }, "mid2": { "set1": "", "set2": "" } },
+            "2025": { "mid1": { "set1": "", "set2": "" }, "mid2": { "set1": "", "set2": "" } }
+          },
+          "Operating Systems":{
+            "2023": { "mid1": { "set1": "https://drive.google.com/file/d/1crXUvR3jRM05UmATi2NaFjiK4fekAIpu/view?usp=sharing", "set2": "" }, "mid2": { "set1": "", "set2": "" } },
+            "2024": { "mid1": { "set1": "https://drive.google.com/file/d/1O0BdE8hVEYKMl8XuXxqpWVSFHMKi7VMn/view?usp=sharing", "set2": "" }, "mid2": { "set1": "", "set2": "" } },
+            "2025": { "mid1": { "set1": "", "set2": "" }, "mid2": { "set1": "", "set2": "" } }
+          },
+          "Database Management Systems":{
+            "2023": { "mid1": { "set1": "https://drive.google.com/file/d/1aIrZBkfyy4iZ8l9DZOMN1651kDrv0kHm/view?usp=sharing", "set2": "" }, "mid2": { "set1": "https://drive.google.com/file/d/1BYiV_GQbvDEKZ4H9CXugJol7jQa5gGHC/view?usp=sharing", "set2": "" } },
+            "2024": { "mid1": { "set1": "https://drive.google.com/file/d/1Wm1FGbDgYi7uM7Pa7wAj5bax-z-qTkyu/view?usp=sharing", "set2": "https://drive.google.com/file/d/1vqAFDgPgPdqbEay4IYrZXG2dqF_pa6Jm/view?usp=sharing" }, "mid2": { "set1": "", "set2": "" } },
+            "2025": { "mid1": { "set1": "", "set2": "" }, "mid2": { "set1": "", "set2": "" } }
+          },
+          "Formal Languages and Automata Theory":{
+            "2023": { "mid1": { "set1": "https://drive.google.com/file/d/1IfOx4F40x_cDuGoHeKLhVeG26eFPF007/view?usp=sharing", "set2": "" }, "mid2": { "set1": "https://drive.google.com/file/d/1wC_GCEzDXNeC8FLgEWWAMMNKPS3eyJm-/view?usp=sharing", "set2": "" } },
+            "2024": { "mid1": { "set1": "https://drive.google.com/file/d/1Ag3T7dCVQNIpXZS3E1G2CKKrLkVV59Hb/view?usp=sharing", "set2": "" }, "mid2": { "set1": "", "set2": "" } },
+            "2025": { "mid1": { "set1": "", "set2": "" }, "mid2": { "set1": "", "set2": "" } }
+          },
+          "Design Thinking":{
+            "2023": { "mid1": { "set1": "https://drive.google.com/file/d/1pN6F2MayaJ-3psQEvTxDyI8ojByRvXDZ/view?usp=sharing", "set2": "" }, "mid2": { "set1": "https://drive.google.com/file/d/1lTwy2ks3xwSdbQ0fLjimUI9xCan6aJnr/view?usp=sharing", "set2": "" } },
+            "2024": { "mid1": { "set1": "https://drive.google.com/file/d/1UFpTlvolzwJfixDuZqX4LOCDlK4J8wnq/view?usp=sharing", "set2": "" }, "mid2": { "set1": "", "set2": "" } },
+            "2025": { "mid1": { "set1": "", "set2": "" }, "mid2": { "set1": "", "set2": "" } }
+          }
+        },
+        "3-1":{
+          "Data Warehousing and Data Mining":{
+            "2023": { "mid1": { "set1": "https://drive.google.com/file/d/16hD11BUUFGLuHdVNal5KCRW3LTlW58tr/view?usp=sharing", "set2": "https://drive.google.com/file/d/1PqPsYHPMIgmLj_GPOGgposDnFBbVw-Qc/view?usp=sharing" }, "mid2": { "set1": "https://drive.google.com/file/d/1sTNcufoc8et1Ngk4emexyF2BV6BzXoDT/view?usp=sharing", "set2": "" } },
+            "2024": { "mid1": { "set1": "", "set2": "" }, "mid2": { "set1": "", "set2": "" } },
+            "2025": { "mid1": { "set1": "", "set2": "" }, "mid2": { "set1": "", "set2": "" } }
+          },
+          "Compiler Design":{
+            "2023": { "mid1": { "set1": "https://drive.google.com/file/d/1ujJeMqz237q0v9PLmhSSUU5JVyGIVApP/view?usp=sharing", "set2": "" }, "mid2": { "set1": "https://drive.google.com/file/d/15JbuZUzliJJq8Kv_VDgquRLNoRoBZTZ3/view?usp=sharing", "set2": "" } },
+            "2024": { "mid1": { "set1": "", "set2": "" }, "mid2": { "set1": "", "set2": "" } },
+            "2025": { "mid1": { "set1": "", "set2": "" }, "mid2": { "set1": "", "set2": "" } }
+          },
+          "Design and Analysis of Algorithms":{
+            "2023": { "mid1": { "set1": "https://drive.google.com/file/d/1DJRYrUip2RK1dED03zc2hpboQsDHMYZp/view?usp=sharing", "set2": "" }, "mid2": { "set1": "https://drive.google.com/file/d/1E9RtDfHJRUBiAZ1n3AkB6WpTFwd0gZOt/view?usp=sharing", "set2": "" } },
+            "2024": { "mid1": { "set1": "", "set2": "" }, "mid2": { "set1": "", "set2": "" } },
+            "2025": { "mid1": { "set1": "", "set2": "" }, "mid2": { "set1": "", "set2": "" } }
+          },
+          "Object Oriented Analysis and Design (PE1)":{
+            "2023": { "mid1": { "set1": "https://drive.google.com/file/d/1_FaUeAqAqD73Cs7sRzf9sVAeKFiMTdMz/view?usp=sharing", "set2": "https://drive.google.com/file/d/1TIPLy9G92M3yKk5gQFRFYmFqA4Yay14z/view?usp=sharing" }, "mid2": { "set1": "https://drive.google.com/file/d/1UUUkWDwL_dDUb3BaactTV9sJipqlLAnV/view?usp=sharing", "set2": "" } },
+            "2024": { "mid1": { "set1": "", "set2": "" }, "mid2": { "set1": "", "set2": "" } },
+            "2025": { "mid1": { "set1": "", "set2": "" }, "mid2": { "set1": "", "set2": "" } }
+          },
+          "Software Testing Methodologies (PE1)":{
+            "2023": { "mid1": { "set1": "https://drive.google.com/file/d/1tKfUpLF8SvIeOVW_rhx7agsX49lXbsBQ/view?usp=sharing", "set2": "https://drive.google.com/file/d/1DG2oQVmMJ52T1eIRCaqOX7JkAp3azgBy/view?usp=sharing" }, "mid2": { "set1": "https://drive.google.com/file/d/1vRZ7_y91Yya2drxXXrEl4an1ck18-BNu/view?usp=sharing", "set2": "" } },
+            "2024": { "mid1": { "set1": "", "set2": "" }, "mid2": { "set1": "", "set2": "" } },
+            "2025": { "mid1": { "set1": "", "set2": "" }, "mid2": { "set1": "", "set2": "" } }
+          },
+          "Advanced Computer Architecture (PE1)":{
+            "2023": { "mid1": { "set1": "", "set2": "" }, "mid2": { "set1": "", "set2": "" } },
+            "2024": { "mid1": { "set1": "", "set2": "" }, "mid2": { "set1": "", "set2": "" } },
+            "2025": { "mid1": { "set1": "", "set2": "" }, "mid2": { "set1": "", "set2": "" } }
+          },
+          "Computer Graphics (PE1)":{
+            "2023": { "mid1": { "set1": "https://drive.google.com/file/d/1PABH_6_loLUMbGNCq64AoM3m6YbY5qP-/view?usp=sharing", "set2": "" }, "mid2": { "set1": "https://drive.google.com/file/d/10dnLaYLGq2TRVYUwQ4hY8saPr2O7e8me/view?usp=sharing", "set2": "" } },
+            "2024": { "mid1": { "set1": "", "set2": "" }, "mid2": { "set1": "", "set2": "" } },
+            "2025": { "mid1": { "set1": "", "set2": "" }, "mid2": { "set1": "", "set2": "" } }
+          }
+        },
+        "3-2":{
+          "Computer Networks":{
+            "2023": { "mid1": { "set1": "", "set2": "" }, "mid2": { "set1": "", "set2": "" } },
+            "2024": { "mid1": { "set1": "", "set2": "" }, "mid2": { "set1": "", "set2": "" } },
+            "2025": { "mid1": { "set1": "", "set2": "" }, "mid2": { "set1": "", "set2": "" } }
+          },
+          "Artificial Intelligence":{
+            "2023": { "mid1": { "set1": "https://drive.google.com/file/d/16ILutdm3VLwCriZmUiW7A2I_Y7xv9GLy/view?usp=sharing", "set2": "https://drive.google.com/file/d/15hXZg6RrChqdjjiz2rM9ZmDPJ-PlPTIX/view?usp=sharing" }, "mid2": { "set1": "", "set2": "" } },
+            "2024": { "mid1": { "set1": "", "set2": "" }, "mid2": { "set1": "", "set2": "" } },
+            "2025": { "mid1": { "set1": "", "set2": "" }, "mid2": { "set1": "", "set2": "" } }
+          },
+          "Cryptography and Network Security":{
+            "2023": { "mid1": { "set1": "", "set2": "" }, "mid2": { "set1": "", "set2": "" } },
+            "2024": { "mid1": { "set1": "", "set2": "" }, "mid2": { "set1": "", "set2": "" } },
+            "2025": { "mid1": { "set1": "", "set2": "" }, "mid2": { "set1": "", "set2": "" } }
+          },
+          "Cloud Computing (PE2)":{
+            "2023": { "mid1": { "set1": "", "set2": "" }, "mid2": { "set1": "", "set2": "" } },
+            "2024": { "mid1": { "set1": "", "set2": "" }, "mid2": { "set1": "", "set2": "" } },
+            "2025": { "mid1": { "set1": "", "set2": "" }, "mid2": { "set1": "", "set2": "" } }
+          },
+          "Cyber Security (PE2)":{
+            "2023": { "mid1": { "set1": "https://drive.google.com/file/d/1Ww6iuFoasKhe7baFTRUnF5hcmjXeq98R/view?usp=sharing", "set2": "https://drive.google.com/file/d/1Dck1Gx9LFssIM7mwFc8nXv5R7fMUhcw8/view?usp=sharing" }, "mid2": { "set1": "", "set2": "" } },
+            "2024": { "mid1": { "set1": "", "set2": "" }, "mid2": { "set1": "", "set2": "" } },
+            "2025": { "mid1": { "set1": "", "set2": "" }, "mid2": { "set1": "", "set2": "" } }
+          },
+          "DevOps (PE2)":{
+            "2023": { "mid1": { "set1": "", "set2": "" }, "mid2": { "set1": "", "set2": "" } },
+            "2024": { "mid1": { "set1": "", "set2": "" }, "mid2": { "set1": "", "set2": "" } },
+            "2025": { "mid1": { "set1": "", "set2": "" }, "mid2": { "set1": "", "set2": "" } }
+          },
+          "No SQL Databases (PE2)":{
+            "2023": { "mid1": { "set1": "https://drive.google.com/file/d/1oeLuQBHlr7RvrJoEAvgcUcPhnkF7DGeY/view?usp=sharing", "set2": "https://drive.google.com/file/d/1z0N1G6nkxHiXtiLlFZ8XTNogZUC6qSRO/view?usp=sharing" }, "mid2": { "set1": "", "set2": "" } },
+            "2024": { "mid1": { "set1": "", "set2": "" }, "mid2": { "set1": "", "set2": "" } },
+            "2025": { "mid1": { "set1": "", "set2": "" }, "mid2": { "set1": "", "set2": "" } }
+          },
+          "Software Project Management (PE3)":{
+            "2023": { "mid1": { "set1": "", "set2": "" }, "mid2": { "set1": "", "set2": "" } },
+            "2024": { "mid1": { "set1": "", "set2": "" }, "mid2": { "set1": "", "set2": "" } },
+            "2025": { "mid1": { "set1": "", "set2": "" }, "mid2": { "set1": "", "set2": "" } }
+          },
+          "Human Computer Interaction (PE3)":{
+            "2023": { "mid1": { "set1": "", "set2": "" }, "mid2": { "set1": "", "set2": "" } },
+            "2024": { "mid1": { "set1": "", "set2": "" }, "mid2": { "set1": "", "set2": "" } },
+            "2025": { "mid1": { "set1": "", "set2": "" }, "mid2": { "set1": "", "set2": "" } }
+          },
+          "Big Data Analytics (PE3)":{
+            "2023": { "mid1": { "set1": "", "set2": "" }, "mid2": { "set1": "", "set2": "" } },
+            "2024": { "mid1": { "set1": "", "set2": "" }, "mid2": { "set1": "", "set2": "" } },
+            "2025": { "mid1": { "set1": "", "set2": "" }, "mid2": { "set1": "", "set2": "" } }
+          },
+          "Distributed Systems (PE3)":{
+            "2023": { "mid1": { "set1": "", "set2": "" }, "mid2": { "set1": "", "set2": "" } },
+            "2024": { "mid1": { "set1": "", "set2": "" }, "mid2": { "set1": "", "set2": "" } },
+            "2025": { "mid1": { "set1": "", "set2": "" }, "mid2": { "set1": "", "set2": "" } }
+          }
+        },
+        "4-1":{
+          "Machine Learning":{
+            "2023": { "mid1": { "set1": "", "set2": "" }, "mid2": { "set1": "", "set2": "" } },
+            "2024": { "mid1": { "set1": "", "set2": "" }, "mid2": { "set1": "", "set2": "" } },
+            "2025": { "mid1": { "set1": "", "set2": "" }, "mid2": { "set1": "", "set2": "" } }
+          },
+          "Human Resource & Project Management":{
+            "2023": { "mid1": { "set1": "", "set2": "" }, "mid2": { "set1": "", "set2": "" } },
+            "2024": { "mid1": { "set1": "", "set2": "" }, "mid2": { "set1": "", "set2": "" } },
+            "2025": { "mid1": { "set1": "", "set2": "" }, "mid2": { "set1": "", "set2": "" } }
+          },
+          "Software Architecture and Design Patterns (PE4)":{
+            "2023": { "mid1": { "set1": "", "set2": "" }, "mid2": { "set1": "", "set2": "" } },
+            "2024": { "mid1": { "set1": "", "set2": "" }, "mid2": { "set1": "", "set2": "" } },
+            "2025": { "mid1": { "set1": "", "set2": "" }, "mid2": { "set1": "", "set2": "" } }
+          },
+          "Blockchain Technology (PE4)":{
+            "2023": { "mid1": { "set1": "", "set2": "" }, "mid2": { "set1": "", "set2": "" } },
+            "2024": { "mid1": { "set1": "", "set2": "" }, "mid2": { "set1": "", "set2": "" } },
+            "2025": { "mid1": { "set1": "", "set2": "" }, "mid2": { "set1": "", "set2": "" } }
+          },
+          "Internet of Things (PE4)":{
+            "2023": { "mid1": { "set1": "", "set2": "" }, "mid2": { "set1": "", "set2": "" } },
+            "2024": { "mid1": { "set1": "", "set2": "" }, "mid2": { "set1": "", "set2": "" } },
+            "2025": { "mid1": { "set1": "", "set2": "" }, "mid2": { "set1": "", "set2": "" } }
+          },
+          "Quantum Computing (PE4)":{
+            "2023": { "mid1": { "set1": "", "set2": "" }, "mid2": { "set1": "", "set2": "" } },
+            "2024": { "mid1": { "set1": "", "set2": "" }, "mid2": { "set1": "", "set2": "" } },
+            "2025": { "mid1": { "set1": "", "set2": "" }, "mid2": { "set1": "", "set2": "" } }
+          },
+          "Soft Computing (PE5)":{
+            "2023": { "mid1": { "set1": "", "set2": "" }, "mid2": { "set1": "", "set2": "" } },
+            "2024": { "mid1": { "set1": "", "set2": "" }, "mid2": { "set1": "", "set2": "" } },
+            "2025": { "mid1": { "set1": "", "set2": "" }, "mid2": { "set1": "", "set2": "" } }
+          },
+          "Digital Image Processing (PE5)":{
+            "2023": { "mid1": { "set1": "", "set2": "" }, "mid2": { "set1": "", "set2": "" } },
+            "2024": { "mid1": { "set1": "", "set2": "" }, "mid2": { "set1": "", "set2": "" } },
+            "2025": { "mid1": { "set1": "", "set2": "" }, "mid2": { "set1": "", "set2": "" } }
+          },
+          "Natural Language Processing (PE5)":{
+            "2023": { "mid1": { "set1": "", "set2": "" }, "mid2": { "set1": "", "set2": "" } },
+            "2024": { "mid1": { "set1": "", "set2": "" }, "mid2": { "set1": "", "set2": "" } },
+            "2025": { "mid1": { "set1": "", "set2": "" }, "mid2": { "set1": "", "set2": "" } }
+          },
+          "Mobile Adhoc Networks (PE5)":{
+            "2023": { "mid1": { "set1": "", "set2": "" }, "mid2": { "set1": "", "set2": "" } },
+            "2024": { "mid1": { "set1": "", "set2": "" }, "mid2": { "set1": "", "set2": "" } },
+            "2025": { "mid1": { "set1": "", "set2": "" }, "mid2": { "set1": "", "set2": "" } }
+          }
+        },
+        "4-2":{
+          
+        }
+      }
+    }
+  },
+
+  "SEM": {
+    "AR23": {
+    "CSE": {
+      "1-1": {
+        "Engineering Physics": {
+
+          "2023": {
+            "regular":"https://drive.google.com/file/d/10fm3Oor3cLntRB3J0fMGPih_q2QCmOtH/view?usp=sharing",
+            "supply":""
+          },
+
+          "2024": {
+            "regular":"https://drive.google.com/file/d/1extPwWhuPeo28U2hKVzGYzEXp6GG59nO/view?usp=sharing",
+            "supply":""
+          },
+
+          "2025": {
+            "regular":"",
+            "supply":""
+          }
+
+        },
+
+        "Linear Algebra & Calculus": {
+
+          "2023": {
+            "regular":"https://drive.google.com/file/d/1f-nfdaaGFd4E5h4qlme_zG8ezPEVN8_D/view?usp=sharing",
+            "supply": ""
+          },
+
+          "2024": {
+            "regular":"https://drive.google.com/file/d/12x4PW8AoJL7lG82IeD8tHvqBCk1IJNAT/view?usp=sharing",
+            "supply": ""
+          },
+
+          "2025": {
+            "regular": "",
+            "supply": ""
+          }
+
+         },
+
+         "Basic Civil & Mechanical Engineering": {
+
+          "2023": {
+            "regular":"https://drive.google.com/file/d/1Jr9mQOduZLEdn8FEqcHtaBCz8-uizf1m/view?usp=sharing",
+            "supply": ""
+          },
+
+          "2024": {
+            "regular":"https://drive.google.com/file/d/1VQSLSzS6YlnvHAgJBI7-DDqldF9-xrU8/view?usp=sharing",
+            "supply": ""
+          },
+
+          "2025": {
+            "regular":"",
+            "supply": ""
+          }
+
+         },
+
+         "Introduction to Programming": {
+
+          "2023": {
+            "regular":"https://drive.google.com/file/d/1p4l3WjYZ2eB9LeiLkayjNARdykz4q1v4/view?usp=sharing",
+            "supply": ""
+          },
+
+          "2024": {
+            "regular": "https://drive.google.com/file/d/1EyfQ7QAxuo5lnwtnIIjKS3L0KJeuQhlI/view?usp=sharing",
+            "supply": ""
+          },
+
+          "2025": {
+            "regular": "",
+            "supply": ""
+          }
+
+         },
+
+         "Engineering Graphics": {
+
+          "2023": {
+            "regular": "",
+            "supply": ""
+          },
+
+          "2024": {
+            "regular": "https://drive.google.com/file/d/1JEIVL04CuLFKnjD_SAG1CwgEZ_WhU9-g/view?usp=sharing",
+            "supply": ""
+          },
+
+          "2025": {
+            "regular": "",
+            "supply": ""
+          }
+
+         }
+      },
+
+      "1-2": {
+        "Communication English": {
+
+          "2023": {
+            "regular": "",
+            "supply": ""
+          },
+
+          "2024": {
+            "regular": "https://drive.google.com/file/d/1cJO5d7CORMrXR6t0qUWjlpBzwamhEYNn/view?usp=sharing",
+            "supply": ""
+          },
+
+          "2025": {
+            "regular": "",
+            "supply": ""
+          }
+
+         },
+
+         "Chemistry": {
+
+          "2023": {
+            "regular": "",
+            "supply": ""
+          },
+
+          "2024": {
+            "regular": "https://drive.google.com/file/d/1h-gYsCXAdW7CixBcNdaB07Gpsuhn3jf-/view?usp=sharing",
+            "supply": "https://drive.google.com/file/d/1DbwAcot4B3GEsnDWwkgIzScw1eKY3XT5/view?usp=sharing"
+          },
+
+          "2025": {
+            "regular": "",
+            "supply": ""
+          }
+
+         },
+
+         "Differential Equations & Vector Calculus": {
+
+          "2023": {
+            "regular": "",
+            "supply": ""
+          },
+
+          "2024": {
+            "regular": "https://drive.google.com/file/d/1_EGExKkc-fHFy-NFgXA0ZI0wYornHIV7/view?usp=sharing",
+            "supply": "https://drive.google.com/file/d/10nILnZCrELtTDkgcmPdNFoOlCo6MYIcg/view?usp=sharing"
+          },
+
+          "2025": {
+            "regular": "",
+            "supply": ""
+          }
+
+         },
+
+         "Data Structures": {
+
+          "2023": {
+            "regular": "",
+            "supply": ""
+          },
+
+          "2024": {
+            "regular": "https://drive.google.com/file/d/1N0RBioeJ0Dn7IgYK9LAr5IAy_gQqC3I2/view?usp=sharing",
+            "supply": "https://drive.google.com/file/d/173QC16JDx5zBFBM1a8FvWDRlGYHyPPl9/view?usp=sharing"
+          },
+
+          "2025": {
+            "regular": "",
+            "supply": ""
+          }
+
+         },
+
+         "Basic Electrical & Electronics Engineering": {
+
+          "2023": {
+            "regular": "",
+            "supply": ""
+          },
+
+          "2024": {
+            "regular": "https://drive.google.com/file/d/1JkwnfXx_Vnqn3rQMizTR5v36FDXjOFZC/view?usp=sharing",
+            "supply": "https://drive.google.com/file/d/1QJbWRv-92YeRLUohsti23Lr2XU4oYkDW/view?usp=sharing"
+          },
+
+          "2025": {
+            "regular": "",
+            "supply": ""
+          }
+
+         }
+    },
+
+    "2-1": {
+      "Mathematical Foundations of Computer Science": {
+
+        "2023": {
+          "regular": "https://drive.google.com/file/d/1KgGGw3s_eJd6r-GbLlYPSG1TNuo_SgWb/view?usp=sharing",
+          "supply": ""
+        },
+
+        "2024": {
+          "regular": "",
+          "supply": ""
+        },
+
+        "2025": {
+          "regular": "",
+          "supply": ""
+        }
+
+       },
+
+       "Universal Human Values": {
+
+        "2023": {
+          "regular": "",
+          "supply": ""
+        },
+
+        "2024": {
+          "regular": "",
+          "supply": ""
+        },
+
+        "2025": {
+          "regular": "",
+          "supply": ""
+        }
+
+       },
+
+       "Digital Logics and Computer Organization": {
+
+        "2023": {
+          "regular": "https://drive.google.com/file/d/1F4mdkIKlsQZWJ4W5BJJ4SpKOFe4aCHdz/view?usp=sharing",
+          "supply": ""
+        },
+
+        "2024": {
+          "regular": "https://drive.google.com/file/d/13D028EaaiHRm7hmMVyGewEiqGKQ7u7e9/view?usp=sharing",
+          "supply": ""
+        },
+
+        "2025": {
+          "regular": "",
+          "supply": ""
+        }
+
+       },
+
+       "Software Engineering": {
+
+        "2023": {
+          "regular": "https://drive.google.com/file/d/1IGzkFxnXvxghDxQ2yDqmOwfZwOWjfvEd/view?usp=sharing",
+          "supply": ""
+        },
+
+        "2024": {
+          "regular": "",
+          "supply": ""
+        },
+
+        "2025": {
+          "regular": "",
+          "supply": ""
+        }
+
+       },
+
+       "Object Oriented Programming through Java": {
+
+        "2023": {
+          "regular": "https://drive.google.com/file/d/1XzXqhq5ySGJJa6flKRLPdJWEdY92xWN8/view?usp=sharing",
+          "supply": ""
+        },
+
+        "2024": {
+          "regular": "https://drive.google.com/file/d/1s_AMNliBblQfQ2VlR2i10X1nt8G0NGp2/view?usp=sharing",
+          "supply": ""
+        },
+
+        "2025": {
+          "regular": "",
+          "supply": ""
+        }
+
+       }
+
+    },
+
+    "2-2": {
+      "Manageral Economics and Financial Analysis": {
+
+        "2023": {
+          "regular": "https://drive.google.com/file/d/1k-YEwrqUp743yf00YTe7fIP2UrDyW0to/view?usp=sharing",
+          "supply": ""
+        },
+
+        "2024": {
+          "regular": "",
+          "supply": ""
+        },
+
+        "2025": {
+          "regular": "",
+          "supply": ""
+        }
+
+       },
+
+      "Probability and Statistics": {
+
+        "2023": {
+          "regular": "https://drive.google.com/file/d/1p3YGtRgh0lOYSBBdRPsp_OV6wSeng4x0/view?usp=sharing",
+          "supply": ""
+        },
+
+        "2024": {
+          "regular": "",
+          "supply": ""
+        },
+
+        "2025": {
+          "regular": "",
+          "supply": ""
+        }
+
+       },
+
+       "Operating Systems": {
+
+        "2023": {
+          "regular": "https://drive.google.com/file/d/19WpiLTNAJYG42_6jPWCQfxgxSXD8gVjL/view?usp=sharing",
+          "supply": ""
+        },
+
+        "2024": {
+          "regular": "",
+          "supply": ""
+        },
+
+        "2025": {
+          "regular": "",
+          "supply": ""
+        }
+
+       },
+
+       "Database Management Systems": {
+        "2023": {
+          "regular": "https://drive.google.com/file/d/13nb_3kKcgh6ccOqfKka1ZAROdwkqILPg/view?usp=sharing",
+          "supply": "https://drive.google.com/file/d/1vz6XgBcdwx6vYE-EHI2oL4xf0qcbkybb/view?usp=sharing"
+        },
+
+        "2024": {
+          "regular": "",
+          "supply": ""
+        },
+
+        "2025": {
+          "regular": "",
+          "supply": ""
+        }
+
+       },
+
+       "Formal Languages and Automata Theory": {
+        "2023": {
+          "regular": "https://drive.google.com/file/d/1HmUtLY-1QaZTNsPMHqNI09pIxStooOgC/view?usp=sharing",
+          "supply": ""
+        },
+
+        "2024": {
+          "regular": "",
+          "supply": ""
+        },
+
+        "2025": {
+          "regular": "",
+          "supply": ""
+        }
+
+       }
+
+     },
+      "3-1": {
+        "Data Warehousing and Data Mining": {
+          "2023": {
+            "regular": "https://drive.google.com/file/d/1yaMZUvdGE-AY2RiYGmJDrs50NFX5t5Fq/view?usp=sharing",
+            "supply": ""
+          },
+
+          "2024": {
+            "regular": "",
+            "supply": ""
+          },
+
+          "2025": {
+            "regular": "",
+            "supply": ""
+           }
+         },
+        "Compiler Design": {
+          "2023": {
+            "regular": "",
+            "supply": ""
+          },
+
+          "2024": {
+            "regular": "",
+            "supply": ""
+          },
+
+          "2025": {
+            "regular": "",
+            "supply": ""
+          }
+        },
+         "Design and Analysis of Algorithms": {
+          "2023": {
+            "regular": "https://drive.google.com/file/d/1mVXgJ5tDIodx82NJzyCB-6tjDt5u0C5x/view?usp=sharing",
+            "supply": ""
+          },
+
+          "2024": {
+            "regular": "",
+            "supply": ""
+          },
+
+           "2025": {
+            "regular": "",
+            "supply": ""
+           }
+         },
+         "Object Oriented Analysis and Design (PE1)": {
+          "2023": {
+            "regular": "https://drive.google.com/file/d/1ChpDCfF4r0pviHUrAMLJzvRzsXeA6OKs/view?usp=sharing",
+            "supply": ""
+          },
+
+          "2024": {
+            "regular": "",
+            "supply": ""
+          },
+
+           "2025": {
+            "regular": "",
+            "supply": ""
+           }
+         },
+         "Software Testing Methodologies (PE1)": {
+          "2023": {
+            "regular": "https://drive.google.com/file/d/1ILsL_Dd7ljQ41AoKyCnCw8vLh2kT-6-M/view?usp=sharing",
+            "supply": ""
+          },
+
+          "2024": {
+            "regular": "",
+            "supply": ""
+          },
+
+           "2025": {
+            "regular": "",
+            "supply": ""
+           }
+         },
+         "Advanced Computer Architecture (PE1)": {
+          "2023": {
+            "regular": "",
+            "supply": ""
+          },
+
+          "2024": {
+            "regular": "",
+            "supply": ""
+          },
+
+           "2025": {
+            "regular": "",
+            "supply": ""
+           }
+          },
+          "Computer Graphics (PE1)": {
+          "2023": {
+            "regular": "https://drive.google.com/file/d/1Sz1TnDFjstNgwla_F8GBDz-VExQrUnh3/view?usp=sharing",
+            "supply": ""
+          },
+
+          "2024": {
+            "regular": "",
+            "supply": ""
+          },
+
+          "2025": {
+            "regular": "",
+            "supply": ""
+           }
+      }
+    },
+    "3-2":{
+      "Computer Networks":{
+        "2023": {
+          "regular": "",
+          "supply": ""
+        },
+
+        "2024": {
+          "regular": "",
+          "supply": ""
+        },
+
+        "2025": {
+          "regular": "",
+          "supply": ""
+         }
+       },
+       "Artificial Intelligence": {
+        "2023": {
+          "regular": "",
+          "supply": ""
+        },
+
+        "2024": {
+          "regular": "",
+          "supply": ""
+        },
+
+        "2025": {
+          "regular": "",
+          "supply": ""
+         }
+       },
+        "Cryptography and Network Security": {
+          "2023": {
+            "regular": "",
+            "supply": ""
+          },
+  
+          "2024": {
+            "regular": "",
+            "supply": ""
+          },
+  
+          "2025": {
+            "regular": "",
+            "supply": ""
+          }
+        },
+        "Cloud Computing (PE2)": {
+          "2023": {
+            "regular": "",
+            "supply": ""
+          },
+  
+          "2024": {
+            "regular": "",
+            "supply": ""
+          },
+  
+          "2025": {
+            "regular": "",
+            "supply": ""
+           }
+         },
+         "Cyber Security (PE2)": {
+          "2023": {
+            "regular": "",
+            "supply": ""
+          },
+  
+          "2024": {
+            "regular": "",
+            "supply": ""
+          },
+  
+          "2025": {
+            "regular": "",
+            "supply": ""
+           }
+         },
+         "DevOps (PE2)": {
+          "2023": {
+            "regular": "",
+            "supply": ""
+          },
+  
+          "2024": {
+            "regular": "",
+            "supply": ""
+          },
+  
+          "2025": {
+            "regular": "",
+            "supply": ""
+           }
+         },
+         "No SQL Databases (PE2)": {
+          "2023": {
+            "regular": "",
+            "supply": ""
+          },
+  
+          "2024": {
+            "regular": "",
+            "supply": ""
+          },
+  
+          "2025": {
+            "regular": "",
+            "supply": ""
+           }
+         },
+         "Software Project Management (PE3)": {
+          "2023": {
+            "regular": "",
+            "supply": ""
+          },
+  
+          "2024": {
+            "regular": "",
+            "supply": ""
+          },
+  
+          "2025": {
+            "regular": "",
+            "supply": ""
+           }
+         },
+         "Human Computer Interaction (PE3)": {
+          "2023": {
+            "regular": "",
+            "supply": ""
+          },
+  
+          "2024": {
+            "regular": "",
+            "supply": ""
+          },
+  
+          "2025": {
+            "regular": "",
+            "supply": ""
+           }
+         },
+          "Big Data Analytics (PE3)": {
+            "2023": {
+              "regular": "",
+              "supply": ""
+            },
+    
+            "2024": {
+              "regular": "",
+              "supply": ""
+            },
+    
+            "2025": {
+              "regular": "",
+              "supply": ""
+            }
+          },
+          "Distributed Systems (PE3)": {
+            "2023": {
+              "regular": "",
+              "supply": ""
+            },
+    
+            "2024": {
+              "regular": "",
+              "supply": ""
+            },
+    
+            "2025": {
+              "regular": "",
+              "supply": ""
+             }
+           }
+      },
+      "4-1":{
+        "Machine Learning":{
+          "2023": {
+            "regular": "",
+            "supply": ""
+          },
+
+          "2024": {
+            "regular": "",
+            "supply": ""
+          },
+
+          "2025": {
+            "regular": "",
+            "supply": ""
+           }
+         },
+         "Human Resource & Project Management":{
+          "2023": {
+            "regular": "",
+            "supply": ""
+          },
+
+          "2024": {
+            "regular": "",
+            "supply": ""
+          },
+
+          "2025": {
+            "regular": "",
+            "supply": ""
+           }
+         },
+         "Software Architecture and Design Patterns (PE4)":{
+          "2023": {
+            "regular": "",
+            "supply": ""
+          },
+
+          "2024": {
+            "regular": "",
+            "supply": ""
+          },
+
+          "2025": {
+            "regular": "",
+            "supply": ""
+           }
+         },
+         "Blockchain Technology (PE4)":{
+          "2023": {
+            "regular": "",
+            "supply": ""
+          },
+
+          "2024": {
+            "regular": "",
+            "supply": ""
+          },
+
+          "2025": {
+            "regular": "",
+            "supply": ""
+           }
+         },
+         "Internet of Things (PE4)":{
+          "2023": {
+            "regular": "",
+            "supply": ""
+          },
+
+          "2024": {
+            "regular": "",
+            "supply": ""
+          },
+
+          "2025": {
+            "regular": "",
+            "supply": ""
+           }
+         },
+         "Quantum Computing (PE4)":{
+          "2023": {
+            "regular": "",
+            "supply": ""
+          },
+
+          "2024": {
+            "regular": "",
+            "supply": ""
+          },
+
+          "2025": {
+            "regular": "",
+            "supply": ""
+           }
+         },
+         "Soft Computing (PE5)":{
+          "2023": {
+            "regular": "",
+            "supply": ""
+          },
+
+          "2024": {
+            "regular": "",
+            "supply": ""
+          },
+
+          "2025": {
+            "regular": "",
+            "supply": ""
+           }
+         },
+          "Digital Image Processing (PE5)":{
+            "2023": {
+              "regular": "",
+              "supply": ""
+            },
+  
+            "2024": {
+              "regular": "",
+              "supply": ""
+            },
+  
+            "2025": {
+              "regular": "",
+              "supply": ""
+            }
+          },
+          "Natural Language Processing (PE5)":{
+            "2023": {
+              "regular": "",
+              "supply": ""
+            },
+  
+            "2024": {
+              "regular": "",
+              "supply": ""
+            },
+  
+            "2025": {
+              "regular": "",
+              "supply": ""
+            }
+          },
+          "Mobile Adhoc Networks (PE5)":{
+            "2023": {
+              "regular": "",
+              "supply": ""
+            },
+  
+            "2024": {
+              "regular": "",
+              "supply": ""
+            },
+  
+            "2025": {
+              "regular": "",
+              "supply": ""
+            }
+           }
+        }
+    }
+  }
+  },
+
+  "LAB": {
+    "AR23": {
+      "CSE": {
+        "1-1": {
+
+          "Physics Lab": {
+            "manual": ""
+          },
+
+          "Intro to Programming Lab": {
+            "manual": ""
+          }
+          },
+
+          "1-2": {
+            "Chemistry Lab": {
+              "manual": ""
+            },
+
+            "Data Structures Lab": {
+              "manual": ""
+
+        }
+      },
+
+      "2-1":{
+
+        "Object Oriented Programming through Java Lab": {
+          "manual": ""
+        },
+
+        "Software Engineering Lab": {
+          "manual": ""
+        }
+      },
+
+      "2-2": {
+
+        "Operating Systems Lab": {
+          "manual": ""
+        },
+
+        "Database Management Systems Lab": {
+          "manual": ""
+        }
+       }
+    }
+  }
+},
+  "NOTES": {
+    "AR23": {
+      "CSE": {
+        "1-1": {
+          "Engineering Physics": {
+            "unit1": "",
+            "unit2": "",
+            "unit3": "",
+            "unit4": "",
+            "unit5": ""
+          },
+
+          "Linear Algebra": {
+            "unit1": "",
+            "unit2": "",
+            "unit3": "",
+            "unit4": "",
+            "unit5": ""
+          },
+
+          "Basic Civil & Mechanical Engineering": {
+            "unit1": "",
+            "unit2": "",
+            "unit3": "",
+            "unit4": "",
+            "unit5": ""
+          },
+
+          "Intro to Programming": {
+            "unit1": "",
+            "unit2": "",
+            "unit3": "",
+            "unit4": "",
+            "unit5": ""
+          },
+
+          "Engineering Graphics": {
+            "unit1": "",
+            "unit2": "",
+            "unit3": "",
+            "unit4": "",
+            "unit5": ""
+          }
+        },
+
+        "1-2": {
+          "CE": {
+            "unit1": "",
+            "unit2": "",
+            "unit3": "",
+            "unit4": "",
+            "unit5": ""
+          },
+
+          "Chemistry": {
+            "unit1": "",
+            "unit2": "",
+            "unit3": "",
+            "unit4": "",
+            "unit5": ""
+          },
+
+          "Differential Equations & Vector Calculus": {
+            "unit1": "",
+            "unit2": "",
+            "unit3": "",
+            "unit4": "",
+            "unit5": ""
+          },
+
+          "Data Structures": {
+            "unit1": "",
+            "unit2": "",
+            "unit3": "",
+            "unit4": "",
+            "unit5": ""
+          },
+
+          "Basic Electrical & Electronics Engineering": {
+            "unit1": "",
+            "unit2": "",
+            "unit3": "",
+            "unit4": "",
+            "unit5": ""
+          }
+        },
+
+        "2-1": {
+          "Mathematical Foundations of Computer Science": {
+            "unit1": "",
+            "unit2": "",
+            "unit3": "",
+            "unit4": "",
+            "unit5": ""
+          },
+
+          "Digital Logics and Computer Organization": {
+            "unit1": "",
+            "unit2": "",
+            "unit3": "",
+            "unit4": "",
+            "unit5": ""
+          },
+
+          "Object Oriented Programming through Java": {
+            "unit1": "",
+            "unit2": "",
+            "unit3": "",
+            "unit4": "",
+            "unit5": ""
+          },
+
+          "Software Engineering": {
+            "unit1": "",
+            "unit2": "",
+            "unit3": "",
+            "unit4": "",
+            "unit5": ""
+          },
+
+          "Universal Human Values": {
+            "unit1": "",
+            "unit2": "",
+            "unit3": "",
+            "unit4": "",
+            "unit5": ""
+          },
+
+          "Environmental Science": {
+            "unit1": "",
+            "unit2": "",
+            "unit3": "",
+            "unit4": "",
+            "unit5": ""
+          }
+        },
+
+        "2-2": {
+          "Probability and Statistics": {
+            "unit1": "",
+            "unit2": "",
+            "unit3": "",
+            "unit4": "",
+            "unit5": ""
+          },
+
+          "Operating Systems": {
+            "unit1": "",
+            "unit2": "",
+            "unit3": "",
+            "unit4": "",
+            "unit5": ""
+          },
+
+          "Formal Languages and Automata Theory": {
+            "unit1": "",
+            "unit2": "",
+            "unit3": "",
+            "unit4": "",
+            "unit5": ""
+          },
+
+          "Database Management Systems": {
+            "unit1": "",
+            "unit2": "",
+            "unit3": "",
+            "unit4": "",
+            "unit5": ""
+          },
+
+          "Manageral Economics and Financial Analysis": {
+            "unit1": "",
+            "unit2": "",
+            "unit3": "",
+            "unit4": "",
+            "unit5": ""
+          },
+
+          "Design Thinking": {
+            "unit1": "",
+            "unit2": "",
+            "unit3": "",
+            "unit4": "",
+            "unit5": ""
+          }
+        }
+      }
+    }
+  },
+
+  
+  "TEXTBOOKS": [
+    {
+      "name": "Higher Engineering Mathematics - B.S. Grewal",
+      "link": "books/maths.pdf"
+    },
+    {
+      "name": "Engineering Physics - Bansal",
+      "link": "books/physics.pdf"
+    },
+    {
+      "name": "C Programming Language - Dennis Ritchie",
+      "link": "books/cprogramming.pdf"
+    }
+  ]
+
+}

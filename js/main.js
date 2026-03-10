@@ -720,7 +720,6 @@ function showMaterialUnits(subject) {
         <tr class="bg-gray-100">
           <th class="border p-2">Unit</th>
           <th class="border p-2">View</th>
-          <th class="border p-2">Download</th>
         </tr>
   `;
 
@@ -735,15 +734,7 @@ function showMaterialUnits(subject) {
         <td class="border p-2 text-center">
           ${
             unitLink && unitLink.trim() !== ""
-              ? `<a href="${unitLink}" target="_blank" class="bg-green-500 text-white px-3 py-1 rounded hover:bg-green-600">View</a>`
-              : `<span class="text-red-500">Not Available</span>`
-          }
-        </td>
-
-        <td class="border p-2 text-center">
-          ${
-            unitLink && unitLink.trim() !== ""
-              ? `<a href="${unitLink}" download class="bg-purple-500 text-white px-3 py-1 rounded hover:bg-purple-600">Download</a>`
+              ? `<a href="${unitLink}" target="_blank" class="bg-blue-500 text-white px-3 py-1 rounded">View</a>`
               : `<span class="text-red-500">Not Available</span>`
           }
         </td>
@@ -943,5 +934,61 @@ document.querySelectorAll(".nav-btn").forEach(link => {
     }
 
   });
+
+});
+
+function searchNavbar(){
+
+const input =
+document.getElementById("navSearch").value.toLowerCase();
+
+const results =
+document.getElementById("searchResults");
+
+results.innerHTML = "";
+
+if(input === ""){
+results.classList.add("hidden");
+return;
+}
+
+const navItems = [
+{ name:"Home", section:"home"},
+{ name:"About Us", section:"about"},
+{ name:"MID QP", section:"mid"},
+{ name:"SEM QP", section:"sem"},
+{ name:"Lab Manuals", section:"lab"},
+{ name:"Materials", section:"materials"},
+{ name:"Textbooks", section:"textbooksSection"},
+{ name:"Contact", section:"contact"}
+];
+
+navItems.forEach(item => {
+
+if(item.name.toLowerCase().includes(input)){
+
+const li = document.createElement("li");
+
+li.innerHTML =
+`<a href="#" class="block px-3 py-2 hover:bg-gray-200"
+onclick="showSection('${item.section}')">
+${item.name}
+</a>`;
+
+results.appendChild(li);
+
+}
+
+});
+
+results.classList.remove("hidden");
+
+}
+
+document.addEventListener("click", function(e){
+
+if(!document.getElementById("navSearch").contains(e.target)){
+document.getElementById("searchResults").classList.add("hidden");
+}
 
 });

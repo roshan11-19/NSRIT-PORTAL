@@ -78,8 +78,19 @@
 <li><a href="#" onclick="activateNav(this); showSection('textbooksSection')" class="nav-btn">Textbooks</a></li>
 
 <li><a href="#" onclick="activateNav(this); showSection('contact')" class="nav-btn">Contact</a></li>      <li>
-        <input type="text" placeholder="Search..."
-          class="border px-2 py-1 rounded">
+        <div class="relative">
+<input
+id="navSearch"
+type="text"
+placeholder="Search..."
+class="border px-3 py-1 rounded w-40"
+onkeyup="searchNavbar()">
+
+<ul
+id="searchResults"
+class="absolute bg-white border w-full mt-1 rounded shadow hidden z-50">
+</ul>
+</div>
       </li>
 
     
@@ -257,21 +268,14 @@
           <td class="border p-2">AR23</td>
       
           <td class="border p-2">
-            <a href="#" class="link">View</a>
+            <a href="https://drive.google.com/file/d/1PHxWl3IxIvEMIGOS8yT7l1K_5H_EwPb4/view?usp=sharing" class="link">View</a>
           </td>
         </tr>
 
         <tr>
           <td class="border p-2">AR26</td>
           <td class="border p-2">
-            <a href="#" class="link">View</a>
-          </td>
-        </tr>
-
-        <tr>
-          <td class="border p-2">Others</td>
-          <td class="border p-2">
-            <a href="#" class="link">View</a>
+            <a href="#">NA</a>
           </td>
         </tr>
 
@@ -281,7 +285,7 @@
 
     <!-- CP Projects -->
     <div class="bg-white p-6 rounded-xl shadow card-hover border">
-      <h3 class="card-title">💻 CP Projects</h3>
+      <h3 class="card-title">💻 CSP Projects</h3>
 
       <table class="w-full mt-4 border">
 
@@ -295,7 +299,7 @@
           <td class="border p-2">AI Project</td>
           <td class="border p-2">2024</td>
           <td class="border p-2">
-            <a href="#" class="link">Download</a>
+            <a href="#">NA</a>
           </td>
         </tr>
 
@@ -303,7 +307,7 @@
           <td class="border p-2">Web App</td>
           <td class="border p-2">2023</td>
           <td class="border p-2">
-            <a href="#" class="link">Download</a>
+            <a href="#">NA</a>
           </td>
         </tr>
 

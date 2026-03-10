@@ -19,7 +19,7 @@
             "2025": { "mid1": { "set1": "", "set2": "" }, "mid2": { "set1": "", "set2": "" } }
           },
           "Introduction to Programming": {
-            "2023": { "mid1": { "set1": "", "set2": "" }, "mid2": { "set1": "", "set2": "" } },
+            "2023": { "mid1": { "set1": "", "set2": "" }, "mid2": { "set1": "https://drive.google.com/file/d/1ekYYo-eawl8OQjRrQXIR6I3oXzdY3cwV/view?usp=sharing", "set2": "https://drive.google.com/file/d/11tx9mnXnkwCpWply-0GypSy6FsHrucZr/view?usp=sharing" } },
             "2024": { "mid1": { "set1": "", "set2": "" }, "mid2": { "set1": "", "set2": "" } },
             "2025": { "mid1": { "set1": "", "set2": "" }, "mid2": { "set1": "", "set2": "" } }
           },
@@ -1127,7 +1127,7 @@
         "1-1": {
 
           "Physics Lab": {
-            "manual": ""
+            "manual": "https://drive.google.com/file/d/1y65XbxE1j62EzFdkq187BleU1TlVuFqr/view?usp=sharing"
           },
 
           "Intro to Programming Lab": {
@@ -1152,8 +1152,8 @@
           "manual": ""
         },
 
-        "Software Engineering Lab": {
-          "manual": ""
+        "CASE TOOLS Lab": {
+          "manual": "https://drive.google.com/file/d/1hMyzh2wHazDD078QurpX7r4Pva7T9oFr/view?usp=sharing"
         }
       },
 
@@ -1267,11 +1267,11 @@
           },
 
           "Digital Logics and Computer Organization": {
-            "unit1": "",
-            "unit2": "",
-            "unit3": "",
-            "unit4": "",
-            "unit5": ""
+            "unit1": "https://drive.google.com/file/d/12nei6NWjhjLvTwMrGyse6LVvsx4dAYdz/view?usp=sharing",
+            "unit2": "https://drive.google.com/file/d/1i3Z77Vgmojbmg0Xx8t9Pmvj3hQDoqeBi/view?usp=sharing",
+            "unit3": "https://drive.google.com/file/d/1LpEOE-eY50Dc8LSoJhpx1noXH_C_C-q4/view?usp=sharing",
+            "unit4": "https://drive.google.com/file/d/1OeadDm45UEusUUCRJr17LreTFMB6eRKp/view?usp=sharing",
+            "unit5": "https://drive.google.com/file/d/1iubrytT9vJMKFmD1MGfj_QOhiCw4GtGa/view?usp=sharing"
           },
 
           "Object Oriented Programming through Java": {
@@ -1283,25 +1283,25 @@
           },
 
           "Software Engineering": {
-            "unit1": "",
-            "unit2": "",
-            "unit3": "",
+            "unit1": "https://drive.google.com/drive/folders/1TXNKUNGJHjNhsGQhgbyGSP4OU3yGEanD?usp=sharing",
+            "unit2": "https://drive.google.com/file/d/1NX7Ygii67Y3_j-bqbyZQLwhaJwuN8AeZ/view?usp=sharing",
+            "unit3": "https://drive.google.com/file/d/1UKhJZveHuYp7_XKrItqZn7gko4jx__U_/view?usp=sharing",
             "unit4": "",
-            "unit5": ""
+            "unit5": "https://drive.google.com/file/d/1W7mk9HvcGgalFjk7EM12POMf-ggbjY6m/view?usp=sharing"
           },
 
           "Universal Human Values": {
-            "unit1": "",
-            "unit2": "",
-            "unit3": "",
-            "unit4": "",
-            "unit5": ""
+            "unit1": "https://drive.google.com/file/d/1Mh0hRHksjrx2h5wUC1zYpCbkJchI0pQu/view?usp=sharing",
+            "unit2": "https://drive.google.com/file/d/1E77_pRlBsjTpvm-1akinsAPrS9SMrfIg/view?usp=sharing",
+            "unit3": "https://drive.google.com/file/d/1Urfg8K7IAnBNyVXVB-ruEW3Qfy-IJ_4r/view?usp=sharing",
+            "unit4": "https://drive.google.com/file/d/1OBbvsYqr-36bejqJ7IzImNEsopclGvQw/view?usp=sharing",
+            "unit5": "https://drive.google.com/file/d/1Jdv47XVOD6a4wP2Q42qDsCq43K8I2n-a/view?usp=sharing"
           },
 
           "Environmental Science": {
-            "unit1": "",
-            "unit2": "",
-            "unit3": "",
+            "unit1": "https://drive.google.com/file/d/1umz3CVYLWzGOEhc3ajACCNnjYetsSstO/view?usp=sharing",
+            "unit2": "https://drive.google.com/file/d/1hQSN9nWojztSYcR_5MMJulEug7JGgYJt/view?usp=sharing",
+            "unit3": "https://drive.google.com/file/d/1rAxbzsa8e1SqsawyMKetL0a2Dt_Ik7sh/view?usp=sharing",
             "unit4": "",
             "unit5": ""
           }
@@ -1317,15 +1317,15 @@
           },
 
           "Operating Systems": {
-            "unit1": "",
-            "unit2": "",
-            "unit3": "",
+            "unit1": "https://drive.google.com/file/d/1txQiOrpR24gjWmiOlrHUxD5sk5p2Qh4f/view?usp=sharing",
+            "unit2": "https://drive.google.com/file/d/1c_U1052Ly1dVIM0MSBJ48gLFo4Q6VnVT/view?usp=sharing",
+            "unit3": "https://drive.google.com/file/d/1w6Z_n8M2ysW4RELvsfW3_3tgyPzq-t9j/view?usp=sharing",
             "unit4": "",
             "unit5": ""
           },
 
           "Formal Languages and Automata Theory": {
-            "unit1": "",
+            "unit1": "https://drive.google.com/file/d/1Zaa-pzcFD1tavI5XTplTbT4mgVJEYmJJ/view?usp=sharing",
             "unit2": "",
             "unit3": "",
             "unit4": "",
@@ -1349,11 +1349,11 @@
           },
 
           "Design Thinking": {
-            "unit1": "",
-            "unit2": "",
-            "unit3": "",
-            "unit4": "",
-            "unit5": ""
+            "unit1": "https://drive.google.com/file/d/1tRgaPxbXdAUppGXp60HDZb6purx8zlKo/view?usp=sharing",
+            "unit2": "https://drive.google.com/file/d/1lRqBIYf7XvyhTBkWR9ToW6JtjCbaQqri/view?usp=sharing",
+            "unit3": "https://drive.google.com/file/d/15KZRDiakRMejfichriFq9-aJ2BXRATSH/view?usp=sharing",
+            "unit4": "https://drive.google.com/file/d/13a0ob35Jw4EsuZiIyaVZS7K0CmbXklQV/view?usp=sharing",
+            "unit5": "https://drive.google.com/file/d/19IDjdY-kidLEIvy-QB-uP0HbDpez5jWl/view?usp=sharing"
           }
         }
       }
@@ -1363,16 +1363,20 @@
   
   "TEXTBOOKS": [
     {
-      "name": "Higher Engineering Mathematics - B.S. Grewal",
-      "link": "books/maths.pdf"
+      "name": "Compilers principles",
+      "link": "https://drive.google.com/file/d/1bNW4cvJe_pdeF0jaoA1JJpLn-djcYJ2p/view?usp=sharing"
     },
     {
-      "name": "Engineering Physics - Bansal",
-      "link": "books/physics.pdf"
+      "name": "Cryptography and network",
+      "link": "https://drive.google.com/file/d/1XK_8Do3X1lm9p3YH48W67KidXTQ8w6r2/view?usp=sharing"
     },
     {
-      "name": "C Programming Language - Dennis Ritchie",
-      "link": "books/cprogramming.pdf"
+      "name": "Engineering Drawing",
+      "link": "https://drive.google.com/file/d/11Sz6-mzSBVXZufNOttX17VdVlWavNalk/view?usp=sharing"
+    },
+    {
+      "name": "Operating system(7th edition)",
+      "link": "https://drive.google.com/file/d/15J02KAO1nC9dh5zQfe1khPN6IoQPEo0D/view?usp=sharing"
     }
   ]
 

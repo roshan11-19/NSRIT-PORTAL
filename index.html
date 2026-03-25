@@ -9,6 +9,16 @@
   <!-- Tailwind -->
   <script src="https://cdn.tailwindcss.com"></script>
 
+  <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-WD53LW3Y5J"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-WD53LW3Y5J');
+</script>
+
   <!-- Custom CSS -->
   <link rel="stylesheet" href="css/style.css">
 </head>
@@ -20,6 +30,10 @@
 <header class="bg-red-700 text-white p-4">
 
   <div class="max-w-7xl mx-auto flex items-center gap-4">
+
+    <div class="text-white text-sm">
+  Visitors: <span id="visitorCount">0</span>
+</div>
 
     <!-- Logo -->
     <img src="https://www.hackwithvizag.com/assets/NSRIT%20Logo.jpg"
@@ -43,6 +57,8 @@
 
   </div>
 
+
+
 </header>
 
 
@@ -51,15 +67,29 @@
 
   <div class="max-w-7xl mx-auto px-4 py-3 flex flex-wrap justify-between items-center">
 
-    <div class="font-bold text-red-700 text-lg">
-      NSRIT Portal
-    </div>
-
-    <!-- Mobile Button -->
+        <!-- Mobile Button -->
 <button id="menuBtn"
   class="md:hidden text-red-700 text-2xl">
   ☰
 </button>
+
+    <div class="font-bold text-red-700 text-lg">
+      NSRIT Portal
+    </div>
+
+    <div class="relative">
+<input
+id="navSearch"
+type="text"
+placeholder="Search..."
+class="border px-3 py-1 rounded w-40"
+onkeyup="searchNavbar()">
+
+<ul
+id="searchResults"
+class="absolute bg-white border w-full mt-1 rounded shadow hidden z-50">
+</ul>
+</div>
 
 <ul id="menu"
   class="hidden md:flex flex-wrap gap-4 items-center">
@@ -77,27 +107,12 @@
 
 <li><a href="#" onclick="activateNav(this); showSection('textbooksSection')" class="nav-btn">Textbooks</a></li>
 
-<li><a href="#" onclick="activateNav(this); showSection('contact')" class="nav-btn">Contact</a></li>      <li>
-        <div class="relative">
-<input
-id="navSearch"
-type="text"
-placeholder="Search..."
-class="border px-3 py-1 rounded w-40"
-onkeyup="searchNavbar()">
-
-<ul
-id="searchResults"
-class="absolute bg-white border w-full mt-1 rounded shadow hidden z-50">
-</ul>
-</div>
-      </li>
+<li><a href="#" onclick="activateNav(this); showSection('contact')" class="nav-btn">Contact</a></li>
 
     
 
     </ul>
-
-  </div>
+</div>
 
 </nav>
 
@@ -376,6 +391,7 @@ By providing well-structured, searchable, and user-friendly content, this websit
     <select id="branch" class="border p-2 rounded">
       <option value="">Select Branch</option>
       <option value="CSE">CSE</option>
+      <option value="CSM">CSM</option>
       <option value="ECE">ECE</option>
       <option value="EEE">EEE</option>
     </select>
@@ -482,6 +498,7 @@ By providing well-structured, searchable, and user-friendly content, this websit
     <select id="semBranch" class="border p-2">
   <option value="">Select Branch</option>
   <option value="CSE">CSE</option>
+  <option value="CSM">CSM</option>
   <option value="ECE">ECE</option>
   <option value="EEE">EEE</option>
 </select>
@@ -582,6 +599,7 @@ By providing well-structured, searchable, and user-friendly content, this websit
       <select id="labBranch" class="border p-2">
         <option value="">Select Branch</option>
         <option value="CSE">CSE</option>
+        <option value="CSM">CSM</option>
         <option value="ECE">ECE</option>
         <option value="EEE">EEE</option>
       </select>
@@ -657,6 +675,7 @@ By providing well-structured, searchable, and user-friendly content, this websit
       <select id="matBranch" class="border p-2 rounded">
         <option value="">Select Branch</option>
         <option value="CSE">CSE</option>
+        <option value="CSM">CSM</option>
         <option value="ECE">ECE</option>
         <option value="EEE">EEE</option>
       </select>

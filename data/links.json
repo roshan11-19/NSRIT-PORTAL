@@ -32,7 +32,7 @@
         "1-2": {
           "Communicative English": {
             "2023": { "mid1": { "set1": "", "set2": "" }, "mid2": { "set1": "", "set2": "" } },
-            "2024": { "mid1": { "set1": "", "set2": "" }, "mid2": { "set1": "", "set2": "" } },
+            "2024": { "mid1": { "set1": "https://drive.google.com/file/d/11hq7u5RTj6gtxn8h1Iq5PejvkIpAF-nv/view?usp=sharing", "set2": "https://drive.google.com/file/d/1MtcbjvrPv5ndQ74XnbtooFB7aqvsTKJ6/view?usp=sharing" }, "mid2": { "set1": "", "set2": "" } },
             "2025": { "mid1": { "set1": "", "set2": "" }, "mid2": { "set1": "", "set2": "" } }
           },
           "Chemistry": {
@@ -269,7 +269,63 @@
         "4-2":{
           
         }
-      }
+      },
+      "CSM":{
+        "1-1":{
+          "Engineering Physics": {
+            "2023": { "mid1": { "set1": "", "set2": "" }, "mid2": { "set1": "", "set2": "" } },
+            "2024": { "mid1": { "set1": "", "set2": "" }, "mid2": { "set1": "", "set2": "" } },
+            "2025": { "mid1": { "set1": "", "set2": "" }, "mid2": { "set1": "", "set2": "" } }
+          },
+          "Linear Algebra & Calculus": {
+            "2023": { "mid1": { "set1": "", "set2": "" }, "mid2": { "set1": "", "set2": "" } },
+            "2024": { "mid1": { "set1": "", "set2": "" }, "mid2": { "set1": "", "set2": "" } },
+            "2025": { "mid1": { "set1": "", "set2": "" }, "mid2": { "set1": "", "set2": "" } }
+          },
+          "Basic Civil & Mechanical Engineering": {
+            "2023": { "mid1": { "set1": "", "set2": "" }, "mid2": { "set1": "", "set2": "" } },
+            "2024": { "mid1": { "set1": "", "set2": "" }, "mid2": { "set1": "", "set2": "" } },
+            "2025": { "mid1": { "set1": "", "set2": "" }, "mid2": { "set1": "", "set2": "" } }
+          },
+          "Introduction to Programming": {
+            "2023": { "mid1": { "set1": "", "set2": "" }, "mid2": { "set1": "https://drive.google.com/file/d/1ekYYo-eawl8OQjRrQXIR6I3oXzdY3cwV/view?usp=sharing", "set2": "https://drive.google.com/file/d/11tx9mnXnkwCpWply-0GypSy6FsHrucZr/view?usp=sharing" } },
+            "2024": { "mid1": { "set1": "", "set2": "" }, "mid2": { "set1": "", "set2": "" } },
+            "2025": { "mid1": { "set1": "", "set2": "" }, "mid2": { "set1": "", "set2": "" } }
+          },
+          "Engineering Graphics": {
+            "2023": { "mid1": { "set1": "", "set2": "" }, "mid2": { "set1": "", "set2": "" } },
+            "2024": { "mid1": { "set1": "", "set2": "" }, "mid2": { "set1": "", "set2": "" } },
+            "2025": { "mid1": { "set1": "", "set2": "" }, "mid2": { "set1": "", "set2": "" } }
+          }
+        },
+        "1-2": {
+          "Communicative English": {
+            "2023": { "mid1": { "set1": "", "set2": "" }, "mid2": { "set1": "", "set2": "" } },
+            "2024": { "mid1": { "set1": "", "set2": "https://drive.google.com/file/d/1MtcbjvrPv5ndQ74XnbtooFB7aqvsTKJ6/view?usp=sharing" }, "mid2": { "set1": "", "set2": "" } },
+            "2025": { "mid1": { "set1": "", "set2": "" }, "mid2": { "set1": "", "set2": "" } }
+          },
+          "Chemistry": {
+            "2023": { "mid1": { "set1": "", "set2": "" }, "mid2": { "set1": "", "set2": "" } },
+            "2024": { "mid1": { "set1": "", "set2": "" }, "mid2": { "set1": "", "set2": "" } },
+            "2025": { "mid1": { "set1": "", "set2": "" }, "mid2": { "set1": "", "set2": "" } }
+          },
+          "Differential Equations & Vector Calculus": {
+            "2023": { "mid1": { "set1": "", "set2": "" }, "mid2": { "set1": "", "set2": "" } },
+            "2024": { "mid1": { "set1": "", "set2": "" }, "mid2": { "set1": "", "set2": "" } },
+            "2025": { "mid1": { "set1": "", "set2": "" }, "mid2": { "set1": "", "set2": "" } }
+          },
+          "Data Structures": {
+            "2023": { "mid1": { "set1": "", "set2": "" }, "mid2": { "set1": "", "set2": "" } },
+            "2024": { "mid1": { "set1": "", "set2": "" }, "mid2": { "set1": "", "set2": "" } },
+            "2025": { "mid1": { "set1": "", "set2": "" }, "mid2": { "set1": "", "set2": "" } }
+          },
+          "Basic Electrical & Electronics Engineering": {
+            "2023": { "mid1": { "set1": "", "set2": "" }, "mid2": { "set1": "", "set2": "" } },
+            "2024": { "mid1": { "set1": "", "set2": "" }, "mid2": { "set1": "", "set2": "" } },
+            "2025": { "mid1": { "set1": "", "set2": "" }, "mid2": { "set1": "", "set2": "" } }
+          }
+        }
+        }
     }
   },
 
@@ -383,7 +439,7 @@
 
           "2024": {
             "regular": "https://drive.google.com/file/d/1cJO5d7CORMrXR6t0qUWjlpBzwamhEYNn/view?usp=sharing",
-            "supply": ""
+            "supply": "https://drive.google.com/file/d/125XbbBsYJfr1hC26zfh5YS6wcyegxRrj/view?usp=sharing"
           },
 
           "2025": {
@@ -1117,6 +1173,201 @@
             }
            }
         }
+    },
+    "CSM":{
+      "1-1": {
+        "Engineering Physics": {
+
+          "2023": {
+            "regular":"https://drive.google.com/file/d/10fm3Oor3cLntRB3J0fMGPih_q2QCmOtH/view?usp=sharing",
+            "supply":""
+          },
+
+          "2024": {
+            "regular":"https://drive.google.com/file/d/1extPwWhuPeo28U2hKVzGYzEXp6GG59nO/view?usp=sharing",
+            "supply":""
+          },
+
+          "2025": {
+            "regular":"",
+            "supply":""
+          }
+
+        },
+
+        "Linear Algebra & Calculus": {
+
+          "2023": {
+            "regular":"https://drive.google.com/file/d/1f-nfdaaGFd4E5h4qlme_zG8ezPEVN8_D/view?usp=sharing",
+            "supply": ""
+          },
+
+          "2024": {
+            "regular":"https://drive.google.com/file/d/12x4PW8AoJL7lG82IeD8tHvqBCk1IJNAT/view?usp=sharing",
+            "supply": ""
+          },
+
+          "2025": {
+            "regular": "",
+            "supply": ""
+          }
+
+         },
+
+         "Basic Civil & Mechanical Engineering": {
+
+          "2023": {
+            "regular":"https://drive.google.com/file/d/1Jr9mQOduZLEdn8FEqcHtaBCz8-uizf1m/view?usp=sharing",
+            "supply": ""
+          },
+
+          "2024": {
+            "regular":"https://drive.google.com/file/d/1VQSLSzS6YlnvHAgJBI7-DDqldF9-xrU8/view?usp=sharing",
+            "supply": ""
+          },
+
+          "2025": {
+            "regular":"",
+            "supply": ""
+          }
+
+         },
+
+         "Introduction to Programming": {
+
+          "2023": {
+            "regular":"https://drive.google.com/file/d/1p4l3WjYZ2eB9LeiLkayjNARdykz4q1v4/view?usp=sharing",
+            "supply": ""
+          },
+
+          "2024": {
+            "regular": "https://drive.google.com/file/d/1EyfQ7QAxuo5lnwtnIIjKS3L0KJeuQhlI/view?usp=sharing",
+            "supply": ""
+          },
+
+          "2025": {
+            "regular": "",
+            "supply": ""
+          }
+
+         },
+
+         "Engineering Graphics": {
+
+          "2023": {
+            "regular": "",
+            "supply": ""
+          },
+
+          "2024": {
+            "regular": "https://drive.google.com/file/d/1JEIVL04CuLFKnjD_SAG1CwgEZ_WhU9-g/view?usp=sharing",
+            "supply": ""
+          },
+
+          "2025": {
+            "regular": "",
+            "supply": ""
+          }
+
+         }
+      },
+
+      "1-2": {
+        "Communication English": {
+
+          "2023": {
+            "regular": "",
+            "supply": ""
+          },
+
+          "2024": {
+            "regular": "https://drive.google.com/file/d/1cJO5d7CORMrXR6t0qUWjlpBzwamhEYNn/view?usp=sharing",
+            "supply": ""
+          },
+
+          "2025": {
+            "regular": "",
+            "supply": ""
+          }
+
+         },
+
+         "Chemistry": {
+
+          "2023": {
+            "regular": "",
+            "supply": ""
+          },
+
+          "2024": {
+            "regular": "https://drive.google.com/file/d/1h-gYsCXAdW7CixBcNdaB07Gpsuhn3jf-/view?usp=sharing",
+            "supply": "https://drive.google.com/file/d/1DbwAcot4B3GEsnDWwkgIzScw1eKY3XT5/view?usp=sharing"
+          },
+
+          "2025": {
+            "regular": "",
+            "supply": ""
+          }
+
+         },
+
+         "Differential Equations & Vector Calculus": {
+
+          "2023": {
+            "regular": "",
+            "supply": ""
+          },
+
+          "2024": {
+            "regular": "https://drive.google.com/file/d/1_EGExKkc-fHFy-NFgXA0ZI0wYornHIV7/view?usp=sharing",
+            "supply": "https://drive.google.com/file/d/10nILnZCrELtTDkgcmPdNFoOlCo6MYIcg/view?usp=sharing"
+          },
+
+          "2025": {
+            "regular": "",
+            "supply": ""
+          }
+
+         },
+
+         "Data Structures": {
+
+          "2023": {
+            "regular": "",
+            "supply": ""
+          },
+
+          "2024": {
+            "regular": "https://drive.google.com/file/d/1N0RBioeJ0Dn7IgYK9LAr5IAy_gQqC3I2/view?usp=sharing",
+            "supply": "https://drive.google.com/file/d/173QC16JDx5zBFBM1a8FvWDRlGYHyPPl9/view?usp=sharing"
+          },
+
+          "2025": {
+            "regular": "",
+            "supply": ""
+          }
+
+         },
+
+         "Basic Electrical & Electronics Engineering": {
+
+          "2023": {
+            "regular": "",
+            "supply": ""
+          },
+
+          "2024": {
+            "regular": "https://drive.google.com/file/d/1JkwnfXx_Vnqn3rQMizTR5v36FDXjOFZC/view?usp=sharing",
+            "supply": "https://drive.google.com/file/d/1QJbWRv-92YeRLUohsti23Lr2XU4oYkDW/view?usp=sharing"
+          },
+
+          "2025": {
+            "regular": "",
+            "supply": ""
+          }
+
+         }
+      }
     }
   }
   },
@@ -1357,8 +1608,8 @@
           }
         }
       }
-    }
-  },
+      }
+    },
 
   
   "TEXTBOOKS": [
@@ -1420,5 +1671,4 @@
       "link": "https://drive.google.com/file/d/1LSy12ExoIpMw6_pJJ0zMyFrIkDlFrXuo/view?usp=sharing"
     }
   ]
-
 }
